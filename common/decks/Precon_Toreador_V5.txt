@@ -1,0 +1,30 @@
+1	Art Museum
+1	Creepshow Casino
+1	Elysium: The Palace of Versailles
+1	Society Hunting Ground
+4	Toreador Grand Ball
+6	Villein
+6	Enchant Kindred
+4	Consanguineous Boon
+8	Kine Resources Contested
+4	Parity Shift
+1	Toreador Justicar
+2	Aire of Elation
+4	Bewitching Oration
+2	Change of Target
+4	Perfect Paragon
+6	Voter Captivation
+8	Resist Earth's Grasp
+4	Scalpel Tongue
+6	Majesty
+4	Second Tradition: Domain
+Crypt:
+1	Nik Sikko
+1	Min-Seo
+1	Massimo Falconi
+1	Bret Stryker
+1	Tamoszius
+1	Kathy Glens
+2	Mkhokheli
+2	Flavio Goncalves
+2	Catalina Vega

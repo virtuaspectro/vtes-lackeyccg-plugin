@@ -1,0 +1,45 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Sabbat War Booster</packtitle>
+
+	<packimage>war</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>SW:PT</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>SW:PV</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>SW:PL</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>SW:PB</data></packcommoncrit>
+	<chance>
+
+		<prob>60</prob>
+		<kind><qty>5</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>SW:C</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>SW:</data></crit></kind>
+
+
+		<kind><qty>2</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>SW:U</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>SW:R</data></crit></kind>
+
+	</chance>
+
+
+	<chance>
+
+		<prob>40</prob>
+		<kind><qty>5</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>SW:C</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>SW:</data></crit></kind>
+
+
+		<kind><qty>2</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>SW:U</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>SW:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

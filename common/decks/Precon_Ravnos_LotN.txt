@@ -1,0 +1,45 @@
+2	Amria
+4	Apparition
+2	Armor of Vitality
+1	Army of Apparitions
+3	Carrion Crows
+2	Chimerstry
+2	Edged Illusion
+1	Fata Amria
+4	Fata Morgana
+2	Fatuus Mastery
+2	Fillip
+1	Forced March
+2	Forced Vigilance
+1	Fortune Teller Shop
+1	Freak Drive
+1	Heart's Desire
+4	Ignis Fatuus
+4	Indomitability
+3	Instinctive Reaction
+2	Leverage
+2	Mayaparisatya
+2	Mirror Image
+1	Nightmare Curse
+4	Occlusion
+1	Owl Companion
+1	Park Hunting Ground
+2	Path of Paradox, The
+2	Pseudo-Blindness
+3	Raven Spy
+1	Ravnos Carnival
+2	Skin of Night
+3	Soak
+2	Svadharma
+1	Talith
+1	Treasured Samadji
+2	Vessel
+1	Week of Nightmares
+2	Zapaderin
+Crypt:
+2	Brian Thompson
+2	Durga Syn
+2	Kiradin
+2	Lizette
+2	Neel Ramanathan
+2	Vassily Taltos

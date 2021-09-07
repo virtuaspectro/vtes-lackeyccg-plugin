@@ -1,0 +1,66 @@
+1	Bonding
+2	Conditioning
+4	Shadow Play
+1	Shroud of Night
+4	Threats
+1	Ambush
+2	Blood Feast
+2	Govern the Unaligned
+1	Political Struggle
+2	Scouting Mission
+1	Shadow Twin
+2	Vaulderie
+1	War Party
+3	Arms of the Abyss
+1	Boxed In
+1	Entombment
+1	Fractured Armament
+1	Mighty Grapple
+1	Oubliette
+1	Pushing the Limit
+1	Sacrament of Carnage
+2	Shadow Body
+2	Shadow Strike
+4	Thrown Gate
+1	Flak Jacket
+2	Laptop Computer
+1	Meat Cleaver
+1	Sport Bike
+1	Blood Doll
+1	Communal Haven: Temple
+1	Dominate
+1	Effective Management
+1	Elysian Fields
+1	Festivo dello Estinto
+1	Legacy of Caine
+1	Misdirection
+1	Obtenebration
+1	Political Hunting Ground
+1	Political Seizure
+1	Political Stranglehold
+1	Potence
+1	Rumor Mill, Tabloid Newspaper, The
+1	Barrens, The
+1	Tribute to the Master
+1	Vicissitude Poisoning
+1	Consanguineous Boon
+1	Disputed Territory
+2	Darksight
+2	Eyes of the Night
+1	Surprise Influence
+4	Wake with Evening's Freshness
+1	J. S. Simmons, Esq.
+1	Shade
+Crypt:
+1	Lucita
+1	Lisette Vizquel
+1	Alvaro, The Scion of Angelica
+1	Angelica, The Canonicus
+1	Antonio Delgado
+1	Aurora Van Brande, Paladin
+1	Gratiano
+1	Ramiro
+1	Cameron
+1	Ignacio, The Black Priest
+1	Francisco Domingo de Polonia
+1	Mitchell, The Headhunter

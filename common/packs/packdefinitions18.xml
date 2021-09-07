@@ -1,0 +1,30 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Lords of The Night Booster</packtitle>
+
+	<packimage>lords</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>LotN:PR</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>LotN:PS</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>LotN:PG</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>LotN:PA</data></packcommoncrit>
+	<chance>
+
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>LotN:C</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>LotN:V</data></crit></kind>
+
+
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>LotN:U</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>LotN:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

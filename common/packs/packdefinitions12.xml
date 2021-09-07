@@ -1,0 +1,24 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Gehenna Booster</packtitle>
+
+	<packimage>gehenna</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<chance>
+
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>Gehenna:C</data></crit></kind>
+
+		<kind><qty>3</qty>><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>Gehenna:U</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>Gehenna:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

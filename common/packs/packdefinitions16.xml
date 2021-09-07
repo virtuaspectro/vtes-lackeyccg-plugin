@@ -1,0 +1,30 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>3rd Edition Booster</packtitle>
+
+	<packimage>third</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Third:PM</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Third:PB</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Third:PTr</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Third:PTz</data></packcommoncrit>
+	<chance>
+
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>Third:C</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>Third:V</data></crit></kind>
+
+
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>Third:U</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>Third:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

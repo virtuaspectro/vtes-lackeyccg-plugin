@@ -1,0 +1,53 @@
+1	Amaranth
+1	Aura Reading
+1	Auspex
+2	Blood Doll
+1	Blood Feast
+4	Body Arsenal
+3	Bonecraft
+1	Breath of the Dragon
+1	Canine Horde
+3	Changeling
+1	Club Zombie
+1	Crusade: Pittsburgh
+3	Drawing Out the Beast
+2	Eagle's Sight
+5	Enhanced Senses
+1	Fame
+1	Festivo dello Estinto
+1	Finding the Path
+3	Forced Awakening
+2	Forgery
+3	Guard Dogs
+2	Horrid Form
+2	Inner Essence
+1	Jack of Both Sides
+1	Library Hunting Ground
+1	Local 1111
+1	Monomancy
+1	Owl Companion
+2	Plasmic Form
+1	Powerbase: Barranquilla
+1	Purchase Pact
+3	Raven Spy
+1	Revenant
+1	Root of Vitality
+1	Rotschreck
+3	Rumble
+2	Scorpion Sting
+1	Smiling Jack, The Anarch
+2	Spirit's Touch
+4	Starvation of Marena
+1	Vicissitude
+1	War Ghoul
+2	Wolf Companion
+1	Neighborhood Watch Commander
+Crypt:
+1	Count Vladimir Rustovitch
+1	Duality
+1	Elizabeth Westcott
+1	Jane Sims
+2	Lady Zara Slatikov
+2	Laika
+2	Radu Bistri
+2	Yuri Kerezenski

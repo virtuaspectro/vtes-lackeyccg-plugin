@@ -1,0 +1,74 @@
+3	Bonding
+2	Bribes
+1	Daring the Dawn
+1	Kindred Manipulation
+1	Private Audience
+1	Seduction
+1	Telepathic Vote Counting
+1	Eternal Vigilance
+1	Far Mastery
+1	Govern the Unaligned
+1	Pulse of the Canaille
+1	Rapid Healing
+2	Restoration
+1	Boxed In
+1	Dodge
+1	Open Grate
+1	Resilience
+1	Rolling with the Punches
+1	Skin of Rock
+1	Superior Mettle
+1	Thoughts Betrayed
+1	Undead Persistence
+1	Zip Gun
+1	Brass Knuckles
+1	Concoction of Vitality
+1	Leather Jacket
+1	Saturday-Night Special
+1	Sport Bike
+1	Antediluvian Awakening
+1	Auspex
+1	Blood Doll
+1	Corporate Hunting Ground
+1	Dominate
+1	Fortitude
+1	Demonstration
+1	Life Boon
+1	Minion Tap
+1	Out of Control
+1	Purchase Pact
+1	Recruitment
+1	Short-Term Investment
+1	Sudden Reversal
+1	Ventrue Investment
+1	Anarchist Uprising
+1	Ancient Influence
+3	Consanguineous Boon
+4	Conservative Agitation
+1	Crusade: Mexico City
+2	Disputed Territory
+1	Peace Treaty
+1	Rabble Razing
+1	Sabbat Priest
+2	Deflection
+3	Enhanced Senses
+2	Forced Awakening
+1	Obedience
+1	Redirection
+1	Spirit's Touch
+2	Telepathic Counter
+2	Wake with Evening's Freshness
+1	Unflinching Persistence
+Crypt:
+1	Kyle Strathcona, Cardinal of Canada
+1	Marlene, The Infernalist
+1	March Halcyon
+1	Dominique
+1	Dylan
+1	Gerard
+1	Ingrid Russo
+1	Lazverinus, Thrall of Lambach
+1	Vanessa
+1	Quentin
+1	Juan Cali
+1	Vincent Day, Paladin and Paragon

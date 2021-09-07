@@ -1,0 +1,39 @@
+1	Anarchist Uprising
+1	Ancient Influence
+2	Banishment
+2	Blanket of Night
+4	Conditioning
+4	Deflection
+6	Govern the Unaligned
+1	Information Highway
+1	Jake Washington
+8	Kine Resources Contested
+1	Mylan Horseed
+1	Neonate Breach
+2	Obedience
+2	On the Qui Vive
+3	Oubliette
+1	Political Hunting Ground
+1	Political Stranglehold
+1	Power Structure
+1	Powerbase: Madrid
+1	Reins of Power
+4	Seduction
+3	Shadow Body
+4	Shadow Play
+4	Shroud of Absence
+4	Shroud of Night
+2	Tenebrous Form
+4	Villein
+2	Wake with Evening's Freshness
+2	Zillah's Valley
+1	Papillon
+2	Under Siege
+1	Monastery of Shadows
+Crypt:
+2	Anton de Concepcion
+2	Luca Italicus
+2	Carolina Valez
+2	Charles Delmare
+2	Lord Leopold Valdemar
+2	Percival

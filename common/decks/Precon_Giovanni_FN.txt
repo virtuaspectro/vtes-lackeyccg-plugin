@@ -1,0 +1,66 @@
+1	Atonement
+3	Bum's Rush
+1	Compel the Spirit
+1	Far Mastery
+2	Govern the Unaligned
+1	Haunt
+2	Jar the Soul
+2	Possession
+2	Summon Soul
+2	Whispers from the Dead
+1	Clan Loyalty
+1	Command of the Beast
+3	Conditioning
+3	Foreshadowing Destruction
+1	Soul Stealing
+3	Spectral Divination
+1	Leonardo, Mortician
+1	Burning Wrath
+1	Death of My Conscience, The
+1	Immortal Grapple
+2	Increased Strength
+1	Thoughts Betrayed
+2	Thrown Gate
+2	Torment the Soul
+2	Tortured Confession
+4	Undead Strength
+1	Vial of Garou Blood
+1	Acquired Ventrue Assets
+1	Blood Doll
+1	Depravity
+1	Dominate
+1	Dreams of the Sphinx
+1	Elder Library
+2	Haven Uncovered
+1	Mausoleum, Venice, The
+1	Morgue Hunting Ground
+2	Necromancy
+1	Parthenon, The
+1	Potence
+1	Powerbase: Rome
+1	Strained Vitae Supply
+1	Consanguineous Boon
+1	Conservative Agitation
+1	Political Stranglehold
+1	Disputed Territory
+2	Deflection
+1	Kindred Coercion
+2	Wake with Evening's Freshness
+1	Giuseppe, Gravedigger
+1	Masquer (Wraith)
+1	Zombie
+1	Akhenaten, The Sun Pharaoh
+1	Ambrosius, The Ferryman
+Crypt:
+1	Carlotta Giovanni
+1	Enzo Giovanni, Pentex Board of Directors
+1	Francesca Giovanni
+1	Gaspare Giovanni
+1	Gloria Giovanni
+1	Isabel Giovanni
+1	Mario Giovanni
+1	Regina Giovanni, The Right Hand of Augustus
+1	Rudolfo Giovanni
+1	Silvia Giovanni
+1	Stefano Giovanni
+1	Vittorio Giovanni

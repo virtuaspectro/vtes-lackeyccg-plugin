@@ -1,0 +1,47 @@
+4	Agent of Power
+2	Coroner's Contact
+1	Dreams of the Sphinx
+1	Dummy Corporation
+1	Houngan
+2	Vessel
+2	Villein
+1	Warsaw Station
+4	Computer Hacking
+2	Deep Song
+1	Divine Sign
+2	Horseshoes
+2	Little Mountain Cemetery
+3	Night Moves
+2	Off Kilter
+1	Patagia: Flaps Allowing Limited Flight
+1	Rampage
+3	Camera Phone
+3	Sport Bike
+3	Reanimated Corpse
+1	Underbridge Stray
+4	Cloak the Gathering
+2	Freak Drive
+1	Hag's Wrinkles
+4	Lost in Crowds
+1	Marked Path
+2	Mask of a Thousand Faces
+4	Veil the Legions
+2	Under My Skin
+2	Elder Intervention
+4	On the Qui Vive
+3	Steadfastness
+2	Cold Aura
+2	Compress
+2	Soak
+Crypt:
+1	Abebe
+1	Federico di Padua
+1	Harold Tanner
+1	Macoute
+1	Petra
+1	Shahid
+1	Slag
+1	Tangine
+1	Topaz
+1	Troglodytia
+2	Baroque

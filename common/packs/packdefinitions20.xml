@@ -1,0 +1,30 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Keepers of Tradition Booster</packtitle>
+
+	<packimage>kot</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>KoT:PT</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>KoT:PV</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>KoT:PM</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>KoT:PB</data></packcommoncrit>
+	<chance>
+
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>KoT:C</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>KoT:V</data></crit></kind>
+
+
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>KoT:U</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>KoT:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

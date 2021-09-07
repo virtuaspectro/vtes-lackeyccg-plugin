@@ -1,0 +1,46 @@
+1	Auspex
+2	Blooding by the Code
+1	Corporate Hunting Ground
+1	Fame
+1	Fortitude
+1	Information Highway
+1	Path of Retribution, The
+2	Vessel
+2	Villein
+1	Dragonbound
+3	Abbot
+1	Blessing of the Name
+2	Brother in Arms
+4	Govern the Unaligned
+1	Graverobbing
+2	Rumble
+2	Sense Death
+5	Baseball Bat
+2	Dawn Operation
+3	Enhanced Senses
+3	Eyes of Argus
+1	Melange
+3	Precognition
+2	Telepathic Counter
+5	Wake with Evening's Freshness
+2	Hide the Heart
+1	Blissful Agony
+1	Eye of Unforgiving Heaven
+5	Indomitability
+3	Sword of the Righteous
+3	Target Vitals
+5	Unflinching Persistence
+3	Vengeance of Samiel
+2	Death Seeker
+Crypt:
+1	Jephta Hester
+1	Jefferson Foster
+1	Titus Camille
+1	Polly Kay Fisher
+1	Neighbor John
+1	Mariel St. John
+1	Rashiel
+1	Nkechi
+1	Langa
+1	Aredhel
+2	Uriel

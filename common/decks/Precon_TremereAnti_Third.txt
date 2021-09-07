@@ -1,0 +1,46 @@
+5	Apportation
+2	Blood Doll
+3	Blood Rage
+4	Bonding
+1	Concoction of Vitality
+1	Crusade: Philadelphia
+1	Dominate
+1	Dominate Kine
+1	Drain Essence
+3	Enhanced Senses
+1	Eternal Vigilance
+1	Excommunication
+1	Golconda: Inner Peace
+5	Govern the Unaligned
+1	Graverobbing
+1	Hand Intervention
+4	Harass
+1	Helicopter
+1	Infernal Pact
+2	On the Qui Vive
+1	Purity of the Beast
+1	Recruitment
+1	Recure of the Homeland
+4	Redirection
+1	Reins of Power
+1	Robert Carter
+1	Rutor's Hand
+1	Sleeping Mind, The
+5	Spirit's Touch
+1	Strained Vitae Supply
+1	Talaq, The Immortal
+1	Thaumaturgy
+6	Theft of Vitae
+4	Threats
+1	University Hunting Ground
+4	Walk of Flame
+3	Weather Control
+Crypt:
+1	Alejandro Aguirre
+2	Esoara
+1	Frondator
+1	Janine
+1	Ladislas Toth, The Torch
+2	Lucubratio
+2	Paul Cordwood
+2	Uta Kovacs

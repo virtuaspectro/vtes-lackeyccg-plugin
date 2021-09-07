@@ -1,0 +1,66 @@
+1	Arson
+1	Blackmail
+4	Corruption
+3	Enchant Kindred
+1	Form of Corruption
+1	Heart of Darkness
+1	Lure of the Serpent
+1	Mark of Damnation
+2	Mind Numb
+1	Phobia
+3	Social Charm
+1	Summon the Serpent
+1	Temptation
+1	Temple Hunting Ground
+1	Violation of Trust
+3	Aire of Elation
+3	Cloak the Gathering
+1	Elder Impersonation
+3	Form of the Serpent
+3	Lost in Crowds
+1	Swallowed by the Night
+2	Venenation
+1	Catatonic Fear
+2	Jones, The
+2	Staredown
+3	Tongue of the Serpent
+1	Catacombs
+1	Flak Jacket
+1	Leather Jacket
+1	Mummy's Tongue
+1	White Phosphorus Grenade
+1	Arcanum Chapterhouse, Alexandria
+1	Blood Doll
+1	Damned, The
+1	Effective Management
+1	Grand Temple of Set
+1	Humanitas
+1	Misdirection
+1	Obfuscate
+1	Opium Den
+1	Path of Typhon, The
+1	Pentex(TM) Subversion
+1	Presence
+1	Realm of the Black Sun, The
+1	Secure Haven
+2	Serpentis
+1	Short-Term Investment
+1	Banishment
+1	Conservative Agitation
+1	Consanguineous Boon
+1	Marijava Ghoul
+2	Ecstasy
+2	Forced Awakening
+Crypt:
+1	Aisha
+1	Amisa
+1	Dedefra
+1	Hadrian Garrick
+1	Kemintiri
+1	Kephamos, High Priest of Marrakech
+1	Khalil Anvari
+1	Lalitha
+1	Nepata
+1	Saqqaf, Keeper of the Grand Temple of Set
+1	Intisar
+1	Hesha Ruhadze

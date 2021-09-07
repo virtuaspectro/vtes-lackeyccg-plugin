@@ -1,0 +1,49 @@
+1	Abombwe
+1	Barrens, The
+3	Blood Doll
+1	Effective Management
+1	Jungle Hunting Ground
+1	KRCG News Radio
+2	Life in the City
+1	Major Boon
+1	Parthenon, The
+1	Rotschreck
+1	Secret Horde
+1	Sudden Reversal
+1	Vox Domini
+1	Vulnerability
+2	Army of Rats
+4	Bum's Rush
+3	Computer Hacking
+3	Harass
+1	Rapid Healing
+1	Tier of Souls
+2	Dawn Operation
+4	Devil-Channel: Throat
+2	Freak Drive
+4	Predator's Mastery
+1	Rumors of Gehenna
+1	Year of Fortune
+3	Instinctive Reaction
+2	Rat's Warning
+1	Unseen Hibernation
+1	Canine Horde
+2	Carrion Crows
+4	Devil-Channel: Hands
+4	Invoking the Beast
+3	Rolling with the Punches
+2	Skin of Steel
+2	Song of Serenity
+2	Unflinching Persistence
+1	Gregory Winter
+2	Owl Companion
+1	Laptop Computer
+1	Reliquary: Akunanse Remains
+1	Akunanse Kholo
+Crypt:
+2	Kamiri wa Itherero
+2	Uchenna
+2	Amavi
+2	Sanjo
+2	Meno Ngari
+2	Dolie

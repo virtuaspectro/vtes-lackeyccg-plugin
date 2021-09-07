@@ -1,0 +1,37 @@
+1	Carlton Van Wyk
+6	Computer Hacking
+3	Conditioning
+3	Deflection
+2	Delaying Tactics
+1	Dreams of the Sphinx
+1	Fame
+3	Glancing Blow
+1	Gregory Winter
+3	Harass
+1	KRCG News Radio
+6	Mirror Walk
+3	Molotov Cocktail
+8	Nephandus
+6	On the Qui Vive
+3	Rego Motus
+2	Sudden Reversal
+3	Target Vitals
+3	Theft of Vitae
+3	Trap
+1	University Hunting Ground
+1	Unmasking, The
+3	Vessel
+2	Wider View
+2	Frontal Assault
+2	Eagle's Sight
+2	Enhanced Senses
+2	Eyes of Argus
+Crypt:
+5	Antonio d'Erlette
+1	Ember Wright
+1	Frondator
+1	Janine
+1	Keith Moody
+1	Lectora
+1	Mosfair
+1	Saiz

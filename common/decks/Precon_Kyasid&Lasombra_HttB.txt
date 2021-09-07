@@ -1,0 +1,46 @@
+2	Blind Spot
+2	Capitalist
+1	Channel 10
+1	Dominate
+1	Obtenebration
+1	Political Hunting Ground
+1	Sudden Reversal
+1	Vessel
+2	Villein
+2	Wider View
+1	Eternal Vigilance
+1	Goblinism
+6	Govern the Unaligned
+1	Song of Pan
+1	Zaire River Ferry
+2	Tinglestripe
+2	Nocturn
+1	Mr. Winthrop
+1	Blanket of Night
+6	Bonding
+4	Shadow Play
+1	Shroud of Absence
+6	Stone Travel
+2	Covincraft
+2	Folderol
+3	Obedience
+3	On the Qui Vive
+3	Absorb the Mind
+1	Autonomic Mastery
+2	Darkness Within
+3	Oubliette
+4	Aura Absorption
+3	Fae Contortion
+4	Murmur of the False Will
+Crypt:
+1	Andrew Emory
+1	Black Wallace
+1	Ermenegildo, The Rake
+1	Lord Vauxhall
+1	Luca Italicus
+1	Virginie, Prodigy
+1	Dame Hollerton
+1	Omme Enberbenight
+1	Pherydima
+1	Roderick Phillips March
+2	Isanwayen

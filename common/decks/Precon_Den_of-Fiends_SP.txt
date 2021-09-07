@@ -1,0 +1,38 @@
+1	Bowl of Convergence
+3	Breath of the Dragon
+5	Carrion Crows
+1	Channel 10
+6	Chiropteran Marauder
+4	Deep Song
+1	Dragonbound
+4	Enhanced Senses
+4	Eyes of Argus
+1	Fame
+1	Heart of Nizchetus
+4	Horrid Form
+4	Inner Essence
+4	On the Qui Vive
+4	Precognition
+1	Rack, The
+2	Raven Spy
+4	Read the Winds
+1	Smiling Jack, The Anarch
+4	Spirit's Touch
+1	Sudden Reversal
+2	Telepathic Misdirection
+3	Telepathic Tracking
+1	Under Siege
+2	Vessel
+3	Villein
+1	Library Hunting Ground
+1	Living Manse
+4	Changeling
+Crypt:
+1	Dr. Morrow, The Skindoctor
+1	Duality
+1	Ilias cel Frumos
+2	Ludmijla Rakoczy
+1	Yuri Kerezenski
+2	Lady Vadislava
+2	Rurik Rakoczy
+2	America Johnson

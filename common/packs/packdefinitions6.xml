@@ -1,0 +1,46 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Ancient Hearts Booster</packtitle>
+
+	<packimage>ancient</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<chance>
+
+		<prob>33</prob>
+		<kind><qty>6</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>AH:C</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>AH:V</data></crit></kind>
+
+
+		<kind><qty>2</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>AH:V</data></crit></kind>
+
+	</chance>
+	<chance>
+
+		<prob>33</prob>
+		<kind><qty>6</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>AH:C</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>AH:V</data></crit></kind>
+
+
+		<kind><qty>2</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>AH:U</data></crit></kind>
+
+	</chance>
+
+	<chance>
+
+		<prob>34</prob>
+		<kind><qty>6</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>AH:C</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>AH:V</data></crit></kind>
+
+
+		<kind><qty>2</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>AH:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

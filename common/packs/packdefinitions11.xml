@@ -1,0 +1,24 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Black Hand Booster</packtitle>
+
+	<packimage>hand</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<chance>
+
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>BH:C</data></crit></kind>
+
+		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>Imbued</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>BH:U</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>BH:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

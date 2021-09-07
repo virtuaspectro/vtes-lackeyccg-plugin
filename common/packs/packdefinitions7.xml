@@ -1,0 +1,26 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Sabbat Booster</packtitle>
+
+	<packimage>sabbat</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<chance>
+
+		<kind><qty>16</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>Sabbat:C</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>Sabbat:V</data></crit></kind>
+
+
+		<kind><qty>5</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>Sabbat:U</data></crit></kind>
+
+		<kind><qty>2</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>Sabbat:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

@@ -1,0 +1,69 @@
+1	Blood Brother Ambush
+5	Ambush
+2	Bum's Rush
+1	Distraction
+3	Enchant Kindred
+2	Legal Manipulations
+1	Rave
+1	Social Charm
+1	Survivalist
+1	Acrobatics
+3	Blur
+1	Burning Wrath
+1	Decapitate
+1	Fast Hands
+2	Flash
+1	Immortal Grapple
+1	Lightning Reflexes
+1	Manstopper Rounds
+1	Pulled Fangs
+2	Pursuit
+2	Pushing the Limit
+1	Sideslip
+1	Taste of Vitae
+1	Thrown Sewer Lid
+1	Torn Signpost
+2	Trap
+4	Undead Strength
+1	.44 Magnum
+1	Gas-Powered Chainsaw
+1	Hawg
+1	Laptop Computer
+1	Leather Jacket
+1	Meat Cleaver
+1	Pier 13, Port of Baltimore
+1	Sawed-Off Shotgun
+1	Sword of Judgment
+1	Wooden Stake
+1	Amusement Park Hunting Ground
+1	Blood Doll
+1	Celerity
+1	Direct Intervention
+1	Fame
+2	Haven Uncovered
+1	Mob Connections
+1	Potence
+1	Storage Annex
+1	Barrens, The
+1	Tribute to the Master
+1	Autarkis Persecution
+1	Excommunication
+1	Templar
+2	Dread Gaze
+2	Forced Awakening
+1	Mistaken Identity
+2	Wake with Evening's Freshness
+1	Mr. Winthrop
+Crypt:
+1	Amelia
+1	Sarah Brando
+1	Sela
+1	Hugo
+1	Dodd
+1	Jacob Bragg
+1	Victor Tolliver
+1	Frederick the Weak
+1	Salinger
+1	Rigby, Crusade Vanguard
+1	Bronwen
+1	Richter, The Templar of Du Mont

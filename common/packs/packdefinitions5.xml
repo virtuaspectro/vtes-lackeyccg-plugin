@@ -1,0 +1,23 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Dark Sovereigns Booster</packtitle>
+
+	<packimage>sovereigns</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<chance>
+
+		<kind><qty>8</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>DS:C</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>DS:V</data></crit></kind>
+
+
+		<kind><qty>3</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>DS:U</data></crit></kind>
+
+	</chance>
+</pack>
+
+
+</packdefinitions>

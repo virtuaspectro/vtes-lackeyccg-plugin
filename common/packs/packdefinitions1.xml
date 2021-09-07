@@ -1,0 +1,25 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Jyhad Deck</packtitle>
+
+	<packimage>jyhaddeck</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Deck</packkind>
+	<chance>
+
+		<kind><qty>13</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>Jyhad:C</data></crit></kind>
+		<kind><qty>15</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>Jyhad:V</data></crit></kind>
+
+
+		<kind><qty>45</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>Jyhad:U</data></crit></kind>
+
+		<kind><qty>3</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>Jyhad:R</data></crit></kind>
+
+	</chance>
+</pack>
+
+
+</packdefinitions>

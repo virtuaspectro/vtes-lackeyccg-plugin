@@ -1,0 +1,48 @@
+2	Blood Doll
+1	Dementation
+1	Effective Management
+1	Institution Hunting Ground
+1	Malkavian Game
+1	Obfuscate
+1	Secure Haven
+1	Vox Senis
+1	Blessing of Chaos
+1	Call, The
+5	Kindred Spirits
+6	Cloak the Gathering
+4	Confusion
+2	Elder Impersonation
+5	Eyes of Chaos
+4	Lost in Crowds
+2	Mind Tricks
+1	Crusade: New York
+1	Crusade: Toronto
+1	Melange
+2	On the Qui Vive
+3	Precognition
+4	Telepathic Counter
+2	Telepathic Misdirection
+1	Voice of Madness
+1	Behind You!
+2	Disengage
+3	Glancing Blow
+3	Read Intentions
+1	Escaped Mental Patient
+1	Catacombs
+1	Deer Rifle
+1	Enchanted Marionette
+2	Leather Jacket
+1	Palatial Estate
+2	Sawed-Off Shotgun
+1	Deny
+4	Swallowed by the Night
+Crypt:
+2	Apache Jones
+2	Beauregard Krueller
+1	Bloodfeud
+1	General Perfidio Dios
+1	Harold Zettler, Pentex Director
+2	Persephone Tar-Anis
+1	Rodolfo
+1	Uncle George
+1	White Lily

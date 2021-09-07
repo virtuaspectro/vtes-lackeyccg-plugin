@@ -1,0 +1,28 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Legacies of Blood Booster</packtitle>
+
+	<packimage>legacies</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>LoB:PA</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>LoB:PG</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>LoB:PO</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>LoB:PI</data></packcommoncrit>
+	<chance>
+
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>LoB:C</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>LoB:U</data></crit></kind>
+
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>LoB:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

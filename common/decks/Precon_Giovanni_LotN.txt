@@ -1,0 +1,46 @@
+3	Brute Force
+3	Bundi
+3	Call of the Hungry Dead
+2	Camera Phone
+1	Chill of Oblivion
+1	Compel the Spirit
+2	Concealed Weapon
+3	Conditioning
+2	Divine Sign
+2	Dominate Kine
+2	Eluding the Arms of Morpheus
+1	Ex Nihilo
+1	Forger's Hammer
+1	Giant's Blood
+1	Graverobbing
+4	Harass
+2	Immortal Grapple
+1	Inspire Greatness
+2	Jack of Both Sides
+1	KRCG News Radio
+1	Morgue Hunting Ground
+4	Murmur of the False Will
+1	Necromancy
+2	Path of Bone, The
+1	Possession
+2	Proxy Kissed
+3	Reckless Agitation
+1	Sargon Fragment, The
+4	Shambling Hordes
+1	Siphon
+2	Slam
+4	Spectral Divination
+1	Sudario Refraction
+2	Taste of Vitae
+2	Torn Signpost
+2	Vessel
+1	Warrant
+2	Whispers from the Dead
+3	Bang Nakh -- Tiger's Claws
+Crypt:
+2	Primo Giovanni
+2	Francis Milliner
+2	Nunzio Giovanni
+2	Guillaume Giovanni
+2	Lady Constancia
+2	Margaret Milliner

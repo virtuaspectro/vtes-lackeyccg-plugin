@@ -1,0 +1,45 @@
+3	Approximation of Loyalty
+2	Blithe Acceptance
+2	Cloak the Gathering
+3	Confusion of the Eye
+1	Crocodile Temple, The
+4	Dream World
+1	Dummy Corporation
+3	Ecstasy
+2	Eluding the Arms of Morpheus
+2	Enticement
+1	Form of Corruption
+1	Hierophant
+2	Into Thin Air
+3	Jones, The
+1	Khobar Towers, Al-Khubar
+4	Majesty
+2	Mental Maze
+1	Mesu Bedshet
+1	Opium Den
+2	Public Trust
+4	Revelation of Desire
+2	Revelation of Despair
+4	Revelation of Ecstasy
+1	Revelation of Wrath
+1	Secure Haven
+1	Serpentis
+2	Spying Mission
+1	Summoning, The
+1	Temple Hunting Ground
+3	Temptation
+4	True Love's Face
+2	Truth of a Thousand Lies
+1	Tutu the Doubly Evil One
+3	Unholy Penance
+2	Veil the Legions
+2	Vessel
+1	Wash
+1	WMRH Talk Radio
+Crypt:
+2	Belle Equitone
+2	Halim Bey
+2	Marla Kenyon
+2	Nakhthorheb
+2	Renenet
+2	Sundervere, The Devil Brahmin

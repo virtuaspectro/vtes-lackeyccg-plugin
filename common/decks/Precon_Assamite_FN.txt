@@ -1,0 +1,55 @@
+3	Ambush
+1	Atonement
+3	Bum's Rush
+1	Erosion
+1	Sacrificial Lamb
+1	Forgotten Labyrinth
+2	Succulent Vitae
+3	Swallowed by the Night
+1	Backstab
+1	Blood Agony
+5	Blood Sweat
+2	Coagulate Blood
+2	Dagon's Call
+2	Disease
+1	Fast Hands
+5	Flash
+2	Khabar: Honor, The
+2	Psyche!
+6	Pursuit
+1	Quickness
+2	Sideslip
+4	Taste of Death
+2	Thin Blood
+1	Ancestor's Talisman, The
+1	Garrote
+1	Kali's Fang
+1	Ruins of Villers Abbey, Belgium
+1	Sport Bike
+1	Alamut
+1	Blood Doll
+1	Celerity
+4	Contract
+1	Heartblood of the Clan
+1	Legendary Vampire
+1	Market Square
+1	Minion Tap
+1	Path of Blood, The
+2	Quietus
+1	Tomb of Rameses III
+1	Underworld Hunting Ground
+2	Forced Awakening
+1	Foul Blood
+Crypt:
+1	Abd al-Rashid
+1	Al-Ashrad, Amr of Alamut
+1	Fatima al-Faqadi
+1	Harika Guljan
+1	Husamettin
+1	Kalinda
+1	Kanya Akhtar
+1	Melek
+1	Parmenides
+1	Parnassus
+1	Tansu Bekir
+1	Thetmes, Caliph of Alamut

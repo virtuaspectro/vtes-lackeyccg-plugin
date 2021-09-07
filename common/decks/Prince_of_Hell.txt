@@ -1,0 +1,41 @@
+2	Nergal's Blood Doll
+1	Nergal's Fragment of the Book of Nod
+1	Greater Haven Uncovered
+1	Demonic Minion Tap
+1	Infernal Perfectionist
+1	Greater Rotschreck
+1	Nergal's Giant's Blood
+1	Infernal Ruins of Charizel
+3	Baleful Bum's Rush
+2	Nergal Calls the Great Beast
+2	Nergal's Concordance
+1	Demonic Condemnation: Betrayed
+1	Demonic Condemnation: Doomed
+1	Demonic Condemnation: Languid
+1	Demonic Condemnation: Mute
+1	Infernal Contagion
+1	Form of Demonic Corruption
+1	Demonic Pulse of the Canaille
+1	Rutor's Infernal Hand
+1	Infernal Regeneration
+2	Greater Faceless Night
+7	Demonic Freak Drive
+2	Infernal Psychomachia
+1	Demonic Confusion of the Eye
+2	Infernal Ecstasy
+2	Greater Telepathic Counter
+4	Greater Telepathic Misdirection
+4	Greater Wake with Evenings Freshness
+1	Walk of Infernal Flame
+2	Greater Catatonic Fear
+5	Infernal Conflagration
+2	Greater Fear of the Void Below
+1	Nergal Ignores the Searing Flames
+2	Skin of the Infernal Adder
+1	Demonic Trap
+1	Greater Undead Persistence
+1	Demonic Herald of Topheth
+2	Sense the Infernal Sin
+2	Swallowed by the Demonic Night
+Crypt:
+1	Nergal, Prince of Hell

@@ -1,0 +1,33 @@
+1	Anarch Troublemaker
+3	Blood Doll
+1	Information Highway
+1	Misdirection
+1	Uptown Hunting Ground
+1	Ventrue Headquarters
+1	Visit From the Capuchin
+2	Wider View
+8	Enchant Kindred
+4	Intimidation
+1	Ancilla Empowerment
+7	Kine Resources Contested
+5	Parity Shift
+4	Bewitching Oration
+4	Conditioning
+1	Daring the Dawn
+6	Freak Drive
+2	Voter Captivation
+4	Hidden Strength
+6	Majesty
+6	Deflection
+4	Second Tradition: Domain
+4	Wake with Evening's Freshness
+Crypt:
+1	Alexa Draper
+2	Alice Chen
+1	Brock Sterling
+1	Chelsea Blake
+2	Horst von Bruhl
+1	Madison
+1	Naomi Stewart
+1	Oshri Dahan
+2	Sybren van Oosten

@@ -1,0 +1,44 @@
+1	Barrens, The
+2	Blood Doll
+1	Celerity
+1	Fortitude
+1	Heidelberg Castle, Germany
+1	Information Highway
+2	Life in the City
+1	Misdirection
+1	Port Hunting Ground
+2	Secret Passage
+1	Sudden Reversal
+5	Enchant Kindred
+1	Entrancement
+3	Legal Manipulations
+2	Propaganda
+5	Social Charm
+3	Alacrity
+2	Change of Target
+1	Daring the Dawn
+4	Forced March
+1	Ishtarri Kholo
+1	Kiss of Ra, The
+5	Uncontrolled Impulse
+3	Wake with Evening's Freshness
+2	Catatonic Fear
+4	Hidden Strength
+2	Majesty
+4	Side Strike
+1	Vampiric Speed
+2	Procurer
+1	Marijava Ghoul
+2	Kerrie
+2	Poker
+1	Reliquary: Biague
+1	Rowan Ring
+3	Scalpel Tongue
+2	Sideslip
+Crypt:
+2	Jibade el-Bahrawi
+2	Kenyatta
+2	Ubende
+2	Honorine Ateba
+2	Shasa Abu Badr
+2	Ganhuru

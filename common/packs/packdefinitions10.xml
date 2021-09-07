@@ -1,0 +1,24 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Anarchs Booster</packtitle>
+
+	<packimage>anarchs</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<chance>
+
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>AN:C</data></crit></kind>
+
+		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>AN:U</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>AN:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

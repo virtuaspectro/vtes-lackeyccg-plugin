@@ -1,0 +1,43 @@
+1	Anarchist Uprising
+1	Ancient Influence
+1	Ancilla Empowerment
+1	Backways
+2	Banishment
+1	Beast Meld
+1	Coven, The
+6	Deflection
+1	Dreams of the Sphinx
+4	Earth Control
+6	Earth Meld
+1	Ecoterrorists
+1	Enkil Cog
+1	Ennoia's Theater
+1	Fear of Mekhet
+3	Forced March
+1	Foreshadowing Destruction
+6	Form of Mist
+3	Freak Drive
+1	Giant's Blood
+7	Govern the Unaligned
+1	Information Highway
+3	Instantaneous Transformation
+4	Kine Resources Contested
+1	Monastery of Shadows
+2	Murmur of the False Will
+1	Neonate Breach
+3	On the Qui Vive
+5	Parity Shift
+1	Pentex(TM) Subversion
+1	Permanent Vacation
+1	Political Stranglehold
+2	Rapid Change
+1	Reins of Power
+3	Second Tradition: Domain
+5	Villein
+4	Zillah's Valley
+Crypt:
+2	Ingrid Rossler
+2	Hartmut Stover
+2	Mark Decker
+4	Stanislava
+2	Xaviar (ADV)

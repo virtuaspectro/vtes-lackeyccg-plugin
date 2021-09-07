@@ -1,0 +1,37 @@
+1	Auspex
+1	Celerity
+2	Contingency Planning
+2	Fame
+1	Presence
+1	Rack, The
+2	Vessel
+6	Public Trust
+1	Entrancement
+4	Approximation of Loyalty
+4	Crocodile's Tongue
+3	Suppressing Fire
+1	Praxis Seizure: Houston
+1	Bowl of Convergence
+1	Mark V
+3	Desert Eagle
+1	Ivory Bow
+6	Pursuit
+2	Concealed Weapon
+3	Psyche!
+3	Taste of Vitae
+3	Eagle's Sight
+4	Minor Irritation
+2	On the Qui Vive
+4	Telepathic Misdirection
+4	Kine Resources Contested
+1	Praxis Seizure: Washington, D.C.
+5	Beretta 9mm
+3	Sniper Rifle
+2	IR Goggles
+Crypt:
+2	Sean Andrews
+2	Thomas De Lutrius
+2	Kateline Nadasdy
+2	Eugene
+2	Rafael de Corazon
+2	Epikasta Rigatos

@@ -1,0 +1,40 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Ebony Kingdom Booster</packtitle>
+
+	<packimage>ebony</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<chance>
+
+		<prob>50</prob>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>EK:C</data></crit></kind>
+
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>EK:V</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>EK:R</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Aye</data></crit></kind>
+
+	</chance>
+
+	<chance>
+
+		<prob>50</prob>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>EK:C</data></crit></kind>
+
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>EK:V</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>EK:R</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Orun</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

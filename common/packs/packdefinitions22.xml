@@ -1,0 +1,28 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Heirs to the Blood Booster</packtitle>
+
+	<packimage>heirs</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>PSam</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>PSal</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>PGar</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>PKia</data></packcommoncrit>
+	<chance>
+
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>HttB:C</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>HttB:V</data></crit></kind>
+
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>HttB:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

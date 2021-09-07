@@ -1,0 +1,26 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Nights of Reckoning Booster</packtitle>
+
+	<packimage>reckoning</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<chance>
+
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>NoR:C</data></crit></kind>
+
+		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>Imbued</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>NoR:U</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>NoR:R</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>NoR:I</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

@@ -1,0 +1,43 @@
+1	Antediluvian Awakening
+1	Barrens, The
+1	Chantry
+1	Depravity
+2	Effective Management
+1	Fame
+1	Guardian Angel
+1	Thaumaturgy
+2	Villein
+1	Wasserschloss Anif, Austria
+3	Bum's Rush
+1	Create Gargoyle
+1	Defender of the Haven
+1	Hatchling
+1	Soul of the Earth
+1	Rock Cat
+1	J. S. Simmons, Esq.
+3	Razor Bat
+4	Conditioning
+4	Deflection
+2	Patrol
+4	Voices of The Castle
+4	Scry the Hearthstone
+6	Wake with Evening's Freshness
+3	Immortal Grapple
+2	Pounce
+2	Lead Fist
+3	Raking Talons
+4	Rockheart
+4	Slam
+4	Soak
+4	Stonestrength
+3	Torn Signpost
+Crypt:
+1	Claus Wegener
+1	Frank Weisshadel
+1	Hector Trelane
+1	Lord Ephraim Wainwright
+1	Muhsin Samir
+1	Tarrence Moore
+2	Rocia
+2	Cedric
+2	Rusticus

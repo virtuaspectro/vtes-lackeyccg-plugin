@@ -1,0 +1,46 @@
+1	Baal's Bloody Talons
+3	Black Sunrise
+3	Blood Awakening
+4	Clandestine Contract
+2	Deed the Heart's Desire
+1	Dragonbound
+2	Flurry of Action
+2	Foul Blood
+1	Free States Rant
+1	Frontal Assault
+2	Garrote
+3	Gemini's Mirror
+1	Haqim's Law: Judgment
+1	Haqim's Law: Leadership
+1	Khabar: Glory
+2	Khabar: Honor, The
+3	Loss
+1	Lost in Translation
+1	Market Square
+1	Mask of a Thousand Faces
+2	Nest of Eagles
+2	Path of Bone, The
+1	Provision of the Silsila
+4	Pursuit
+1	Quietus
+2	Resist Earth's Grasp
+3	Rooftop Shadow
+4	Scorpion's Touch
+4	Selective Silence
+1	Shadow Feint
+1	Songs of the Distant Vitae
+3	Swallowed by the Night
+1	Tajdid
+3	Taste of Death
+1	Truth of Blood
+1	Underworld Hunting Ground
+2	Vessel
+2	Web of Knives Recruit
+3	Weighted Walking Stick
+Crypt:
+2	Bertrand d'Anjou
+2	Dmitri Borodin
+2	Evan Rogers
+2	Kashan
+2	Layla bint-Nadr
+2	Thucimia

@@ -1,0 +1,24 @@
+2	Cultist's .44 Magnum
+2	Cultist's Aire of Elation
+2	Cultist's Arms Dealer
+3	Cultist's Assault Rifle
+1	Cultist's Atonement
+1	Cultist's AWE
+1	Cultist's Blood Feast
+3	Cultist's Bomb
+1	Cultist's Combat Shotgun
+7	Cultist's Creation Rites
+2	Cultist's Enchant Kindred
+3	Cultist's Enhanced Senses
+2	Cultist's Entrancement
+1	Cultist's Esgrima
+2	Cultist's Flamethrower
+1	Cultist's Guardian Angel
+1	Cultist's Mind Rape
+2	Cultist's Precognition
+1	Cultist's Protracted Investment
+3	Cultist's Revelations
+1	Cultist's Survivalist
+2	Cultist's Tribute to the Master
+Crypt:
+1	Reverend Adams, Millennium Cultist

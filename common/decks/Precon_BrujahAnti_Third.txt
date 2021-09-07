@@ -1,0 +1,50 @@
+1	Amusement Park Hunting Ground
+2	Blood Doll
+1	Celerity
+1	Creepshow Casino
+1	Dummy Corporation
+1	London Evening Star, Tabloid Newspaper
+1	Potence
+1	Secret Horde
+1	Toy Chest Test
+1	Aranthebes, The Immortal
+2	Alacrity
+1	Aura of Invincibility
+5	Bewitching Oration
+3	Bribes
+3	Iron Glare
+2	Voter Captivation
+1	Consanguineous Boon
+1	Crusade: Detroit
+1	Crusade: Rome
+1	Disputed Territory
+1	Dogs of War
+6	Kine Resources Contested
+1	Reinforcements
+1	Sabbat Priest
+2	On the Qui Vive
+1	Vendetta
+3	Acrobatics
+1	Burning Wrath
+1	Fast Hands
+5	Flash
+2	Increased Strength
+1	Mighty Grapple
+3	Nimble Feet
+3	Stunt Cycle
+2	Taste of Vitae
+2	Torn Signpost
+5	Undead Strength
+2	Leather Jacket
+1	Sengir Dagger
+1	Starshell Grenade Launcher
+2	Scalpel Tongue
+Crypt:
+1	Alessandro Garcia
+2	Armin Brenner
+2	Father Juan Carlos
+2	Hektor
+1	Marcel de Breau
+1	Shawnda Dorrit
+1	Smash
+2	Urraca

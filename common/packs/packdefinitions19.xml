@@ -1,0 +1,24 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Twilight Rebellion Booster</packtitle>
+
+	<packimage>twilight</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<chance>
+
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>TR:C</data></crit></kind>
+
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>TR:V</data></crit></kind>
+
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>TR:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

@@ -1,0 +1,51 @@
+1	Dummy Corporation
+1	Elder Library
+1	Giant's Blood
+1	Legendary Vampire
+3	Minion Tap
+1	Palace Hunting Ground
+1	Potence
+1	Rumor Mill, Tabloid Newspaper, The
+1	Storage Annex
+1	Sudden Reversal
+2	Zillah's Valley
+1	Charming Lobby
+1	Awe
+4	Bewitching Oration
+2	Change of Target
+4	Guruhi Are the Land, The
+1	Guruhi Kholo
+4	Iron Glare
+3	Voter Captivation
+1	Ancient Influence
+2	Ancilla Empowerment
+1	Banishment
+2	Consanguineous Boon
+5	Conservative Agitation
+1	Disputed Territory
+2	Domain Challenge
+3	Kine Resources Contested
+1	Overseer
+1	Peace Treaty
+1	Political Flux
+1	Political Stranglehold
+3	Cats' Guidance
+1	King's Favor
+2	Wake with Evening's Freshness
+2	Burning Wrath
+1	Death of My Conscience, The
+1	Fractured Armament
+2	Pushing the Limit
+3	Staredown
+1	Terror Frenzy
+2	Elephant Guardian
+2	Blood Tears of Kephran
+1	Brass Knuckles
+1	Flak Jacket
+Crypt:
+2	Nangila Were
+2	Lumumba
+2	Batsheva
+2	Ugadja
+2	Aren, Priest of Eshu
+2	Sobayifa

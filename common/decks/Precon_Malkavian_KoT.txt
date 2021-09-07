@@ -1,0 +1,36 @@
+1	Auspex
+1	Bleeding the Vine
+1	Dementation
+2	Effective Management
+1	Giant's Blood
+1	High Museum of Art, Atlanta
+4	Life in the City
+2	Obfuscate
+2	Vessel
+5	Forgery
+6	Kindred Spirits
+2	Sleep of Reason
+1	Praxis Seizure: Chicago
+3	Cooler
+2	Learjet
+3	Change of Target
+6	Eyes of Chaos
+6	Into Thin Air
+4	Spying Mission
+4	Veil the Legions
+3	On the Qui Vive
+2	Poison Pill
+2	Shattered Mirror
+3	Spirit's Touch
+2	Voice of Madness
+4	Glancing Blow
+2	Deny
+1	Coven, The
+1	Elysium: The Arboretum
+Crypt:
+2	Cassandra Langely, The Waif
+2	Florentina Lengauer
+2	Morel
+2	Aleister Crowley
+2	Tryphosa
+2	Lutz Von Hohenzollern

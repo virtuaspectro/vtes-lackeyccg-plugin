@@ -1,0 +1,31 @@
+1	Asylum Hunting Ground
+1	Barrens, The
+4	Blood Doll
+1	Dreams of the Sphinx
+1	Elder Library
+2	Life in the City
+1	Wider View
+12	Govern the Unaligned
+4	Revelations
+4	Bonding
+4	Cloak the Gathering
+4	Conditioning
+4	Faceless Night
+2	Foreshadowing Destruction
+4	Lost in Crowds
+4	Spying Mission
+4	Swallowed by the Night
+5	Deflection
+5	Eyes of Argus
+5	On the Qui Vive
+5	Telepathic Misdirection
+Crypt:
+1	Ashley
+1	Dr. Stephen Norton
+1	Sully
+1	Colette
+1	Gelasia Fotiou
+1	Meaghan
+2	Andi Liu
+2	Alexander Silverson
+2	Donny Kowalczyk

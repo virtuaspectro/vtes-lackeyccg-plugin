@@ -1,0 +1,37 @@
+1	Dominate
+2	Esgrima
+1	Fortitude
+1	Golconda: Inner Peace
+2	Instability
+1	Powerbase: Montreal
+1	Presence
+1	Social Ladder
+2	Special Report
+2	Vessel
+1	Martinelli's Ring
+1	Dominate Kine
+3	Fourth Tradition: The Accounting
+5	Murmur of the False Will
+5	Conditioning
+3	Freak Drive
+4	Seduction
+3	Can't Take it with You
+5	Honor the Elders
+2	National Guard Support
+1	Praxis Seizure: Atlanta
+1	Praxis Seizure: Miami
+1	Reins of Power
+4	Armor of Vitality
+4	Majesty
+6	Soak
+3	Second Tradition: Domain
+3	Aura of Invincibility
+6	Kine Resources Contested
+2	Haymaker
+Crypt:
+2	Jackson Asher
+2	Joao Bile
+2	Johannes Castelein
+2	Gotsdam, The Tired Warrior
+2	Gustav Breidenstein
+2	Hardestadt

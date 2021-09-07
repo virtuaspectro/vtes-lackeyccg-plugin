@@ -1,0 +1,72 @@
+1	Scrying of Secrets
+2	Changeling
+2	Plasmic Form
+1	Army of Rats
+1	Arson
+1	Blood Feast
+1	Computer Hacking
+1	Pulse of the Canaille
+1	Revelations
+1	Blood of Acid
+2	Body Arsenal
+1	Bonecraft
+1	Breath of the Dragon
+1	Canine Horde
+2	Carrion Crows
+3	Chiropteran Marauder
+1	Dead-End Alley
+1	Drawing Out the Beast
+1	Fake Out
+1	Fleshcraft
+1	Horrid Form
+1	Kraken's Kiss
+1	Inner Essence
+1	Lucky Blow
+2	Meld with the Land
+1	Primal Instincts
+1	Reform Body
+2	Song of Serenity
+1	Brass Knuckles
+1	Femur of Toomler
+1	Flamethrower
+1	Laptop Computer
+1	Leather Jacket
+1	Animalism
+1	Auspex
+1	Blood Doll
+1	Detection
+1	Elder Library
+1	Information Highway
+1	Library Hunting Ground
+1	Minion Tap
+1	Pentex(TM) Loves You!
+1	Powerbase: Mexico City
+1	Unnatural Disaster
+1	Vicissitude
+1	Ancient Influence
+1	Peace Treaty
+1	Crusade: Pittsburgh
+1	Cardinal Sin: Failure of Mission
+3	Cats' Guidance
+2	Enhanced Senses
+5	Forced Awakening
+2	Guard Dogs
+2	Precognition
+1	Rat's Warning
+2	Spirit's Touch
+1	Revenant
+1	Wolf Companion
+1	Surprise Influence
+Crypt:
+1	Sascha Vykos, The Angel of Caine
+1	Stravinsky
+1	Lambach
+1	Violet Tremain
+1	Anton
+1	Corine Marcon
+1	Meshenka
+1	Dragos
+1	Terrence
+1	Lolita Houston
+1	Devin Bisley
+1	Horatio

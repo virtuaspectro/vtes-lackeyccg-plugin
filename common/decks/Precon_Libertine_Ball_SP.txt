@@ -1,0 +1,31 @@
+4	Art Scam
+4	Change of Target
+7	Consanguineous Boon
+2	Delaying Tactics
+1	Dia de los Muertos
+9	Embrace, The
+6	Enchant Kindred
+3	Entrancement
+3	Foundation Exhibit
+6	Kine Resources Contested
+4	Majesty
+4	On the Qui Vive
+3	Palla Grande
+2	Perfectionist
+3	Resist Earth's Grasp
+4	Telepathic Misdirection
+4	Vessel
+1	Wash
+1	Creepshow Casino
+1	Hungry Coyote, The
+3	Perfect Paragon
+2	Scalpel Tongue
+Crypt:
+1	Jonathan Gursel
+1	Justine Chen, Innocent
+3	Klaus Konrecht
+1	L'Epuisette
+1	Loonar
+1	Monique Kim
+2	Conchita Morales
+2	Guggenheim

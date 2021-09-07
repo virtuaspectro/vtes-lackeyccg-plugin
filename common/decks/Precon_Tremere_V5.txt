@@ -1,0 +1,34 @@
+1	Academic Hunting Ground
+1	Arcane Library
+1	Chantry
+1	Misdirection
+1	Wasserschloss Anif, Austria
+4	Vessel
+1	Wider View
+12	Govern the Unaligned
+2	Magic of the Smith
+1	.44 Magnum
+1	Bowl of Convergence
+1	Kevlar Vest
+1	Sport Bike
+6	Bonding
+6	Mirror Walk
+4	Apportation
+10	Theft of Vitae
+4	Deflection
+6	Eyes of Argus
+4	On the Qui Vive
+2	Precognition
+2	Spirit's Touch
+4	Telepathic Misdirection
+1	Pentex(TM) Subversion
+Crypt:
+2	Ayelech
+1	Chrysanthemum
+1	Lauren
+1	Lloyd Brooks
+1	Nassir
+1	Patrik Soderberg
+1	Rosalina Cortez
+2	Trevon Parker
+2	Ines Tristao

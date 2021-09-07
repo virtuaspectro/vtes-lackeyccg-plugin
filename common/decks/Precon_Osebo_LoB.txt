@@ -1,0 +1,44 @@
+1	Base Hunting Ground
+2	Blood Doll
+1	Celerity
+1	Frenzy
+2	Guardian Angel
+1	Mob Connections
+1	New in Town
+1	Tension in the Ranks
+2	Brick Laying
+3	Enforcer
+1	Psychic Projection
+1	Pulse of the Canaille
+1	Fast Reaction
+4	Forced Awakening
+4	Quicken Sight
+1	Disguised Weapon
+2	Increased Strength
+1	Infernal Pursuit
+1	Manstopper Rounds
+3	Nimble Feet
+3	Projectile
+4	Pursuit
+1	Riposte
+2	Taste of Vitae
+2	Telepathic Tracking
+4	Thrown Gate
+5	Thrown Sewer Lid
+3	Trap
+3	.44 Magnum
+2	Improvised Flamethrower
+1	IR Goggles
+1	Sniper Rifle
+1	Osebo Kholo
+2	Eagle's Sight
+2	My Enemy's Enemy
+3	Crocodile's Tongue
+4	Ancestor's Insight
+Crypt:
+2	Uzoma
+2	Khalu
+2	Tatu Sawosa
+2	Ismitta
+2	Misrak
+2	Cesewayo

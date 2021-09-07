@@ -1,0 +1,28 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Final Nights Booster</packtitle>
+
+	<packimage>final</packimage>
+	<packformat>Limited</packformat>
+
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>FN:PA</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>FN:PG</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>FN:PS</data></packcommoncrit>
+	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>FN:PR</data></packcommoncrit>
+	<chance>
+
+		<kind><qty>7</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>FN:C</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>FN:</data></crit></kind>
+
+
+		<kind><qty>1</qty><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Vampire</data></crit>	<crit><field>Rarity</field><eval>CONTAINS</eval><data>FN:R</data></crit></kind>
+
+	</chance>
+
+</pack>
+
+
+</packdefinitions>

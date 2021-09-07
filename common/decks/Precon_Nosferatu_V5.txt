@@ -1,0 +1,36 @@
+1	Fame
+1	Guardian Angel
+1	Haven Uncovered
+1	Labyrinth, The
+1	Rebel
+1	Slum Hunting Ground
+1	Smiling Jack, The Anarch
+1	Warsaw Station
+4	Vessel
+4	Creeping Sabotage
+6	Deep Song
+2	Preternatural Strength
+2	Underbridge Stray
+2	Murder of Crows
+2	Raven Spy
+4	Lost in Crowds
+2	Carrion Crows
+4	Immortal Grapple
+8	Roundhouse
+4	Taste of Vitae
+4	Guard Dogs
+4	Instinctive Reaction
+5	On the Qui Vive
+4	Protected District
+4	Warrens, The
+4	Cats' Guidance
+Crypt:
+1	Aunt Linda
+1	Baixinho
+2	Belinde
+1	Dowager, The
+1	Horace Radcliffe
+2	Larissa Moreira
+2	Lenny Burkhead
+1	Ryan
+1	Wauneka

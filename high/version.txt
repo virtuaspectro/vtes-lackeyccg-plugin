@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>210819</lastupdateYYMMDD>
+ <quality>HIGH</quality>
+ <versionurl>http://www.lackeyccg.com/vtes/high/version.txt</versionurl>
+ <updateurl>http://www.lackeyccg.com/vtes/high/updatelist.txt</updateurl>
+ <message>VtES update to version 3.55.</message>
+</version>

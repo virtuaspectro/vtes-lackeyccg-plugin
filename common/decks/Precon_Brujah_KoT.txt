@@ -1,0 +1,37 @@
+1	Celerity
+1	KRCG News Radio
+2	Major Boon
+1	Nod
+1	Potence
+1	Presence
+1	Tension in the Ranks
+2	Vessel
+4	Enrage
+2	Entrenching
+5	Harass
+3	Public Trust
+6	Brute Force
+3	Immortal Grapple
+3	Psyche!
+3	Relentless Pursuit
+4	Slam
+4	Stutter-Step
+3	Taste of Vitae
+3	Torn Signpost
+3	Weighted Walking Stick
+2	Bundi
+1	Drum of Xipe Totec
+1	Phased Motion Detector
+1	Sengir Dagger
+2	Finding the Path
+2	Year of Fortune
+3	On the Qui Vive
+4	Bang Nakh -- Tiger's Claws
+5	Resist Earth's Grasp
+Crypt:
+2	Garret
+2	Reginald Moore
+2	Herbert Westin
+2	Tomaine
+2	Jann Berger
+2	Adana de Sforza
