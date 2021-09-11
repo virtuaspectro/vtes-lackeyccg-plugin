@@ -4,6 +4,8 @@ LackeyCCG VTES Plugin - Changelog
 
 Card names fix
 
+Preconstructed decks moved to precons folder
+
 
 3.55 - 19/AUGUST/2021
 
