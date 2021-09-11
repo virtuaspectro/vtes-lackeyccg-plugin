@@ -1,4 +1,4 @@
-vtes	08-19-21
+vtes	09-11-21
 plugins/vtes/plugininfo.txt	http://www.lackeyccg.com/vtes/common/plugininfo.txt	429395
 plugins/vtes/spawned.png	http://www.lackeyccg.com/vtes/high/images/spawned.png	171299
 plugins/vtes/cardback.jpg	http://www.lackeyccg.com/vtes/high/images/cardback.jpg	396960

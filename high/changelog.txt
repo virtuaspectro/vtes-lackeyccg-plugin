@@ -1,5 +1,10 @@
 LackeyCCG VTES Plugin - Changelog
 
+3.56 - 11/SEPTEMBER/2021
+
+Card names fix
+
+
 3.55 - 19/AUGUST/2021
 
 Added Kickstarter Unleashed promos
