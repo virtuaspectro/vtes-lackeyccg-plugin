@@ -1,5 +1,9 @@
 LackeyCCG VTES Plugin - Changelog
 
+3.57 - 20/SEPTEMBER/2021
+
+Change references to lackey.vtes.online
+
 3.56 - 11/SEPTEMBER/2021
 
 Card names fix
@@ -398,7 +402,7 @@ Added The Return of Nergal (Infernal Plague II) Storyline Deck and cards scans
 Added better scans for a lot of cards
 
 Added link to FELD2LACKEY deck conversion tool to official tutorial page
-http://www.lackeyccg.com/vtes/FELD2LackeyConverter.zip
+http://lackey.vtes.online/FELD2LackeyConverter.zip
 (thanks to Eduardo Kazan for this tool)
 
 
