@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>210920</dateYYMMDD>
+<dateYYMMDD>210921</dateYYMMDD>
 <removepath>sets/setimages/general/abidbinhajischolarofmirrors.jpg</removepath>
 <removepath>sets/setimages/general/adhocracy.jpg</removepath>
 <removepath>sets/setimages/general/adritheseeker.jpg</removepath>
