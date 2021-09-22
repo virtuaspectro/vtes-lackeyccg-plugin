@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>210920</lastupdateYYMMDD>
+<lastupdateYYMMDD>210921</lastupdateYYMMDD>
  <quality>HIGH</quality>
  <versionurl>http://lackey.vtes.online/high/version.txt</versionurl>
  <updateurl>http://lackey.vtes.online/high/updatelist.txt</updateurl>
- <message>VtES update to version 3.57.</message>
+ <message>VtES update to version 3.58.</message>
 </version>
