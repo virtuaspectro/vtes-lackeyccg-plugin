@@ -1,4 +1,4 @@
-vtes	09-21-21
+vtes	11-14-21
 plugins/vtes/plugininfo.txt	http://lackey.vtes.online/common/plugininfo.txt	429395
 plugins/vtes/spawned.png	http://lackey.vtes.online/high/images/spawned.png	171299
 plugins/vtes/cardback.jpg	http://lackey.vtes.online/high/images/cardback.jpg	396960
@@ -20,18 +20,18 @@ plugins/vtes/sets/setimages/general/seating4.jpg	http://lackey.vtes.online/high/
 plugins/vtes/sets/setimages/general/seating5.jpg	http://lackey.vtes.online/high/images/seating5.jpg	349279
 plugins/vtes/sets/setimages/general/cardbacktoken.jpg	http://lackey.vtes.online/high/images/cardbacktoken.jpg	329594
 plugins/vtes/sets/setimages/general/cardbackcrypt.jpg	http://lackey.vtes.online/high/images/cardbackcrypt.jpg	373442
-plugins/vtes/version.txt	http://lackey.vtes.online/high/version.txt	25982
+plugins/vtes/version.txt	http://lackey.vtes.online/high/version.txt	25223
 plugins/vtes/setlist.txt	http://lackey.vtes.online/high/setlist.txt	69916
 plugins/vtes/bot.jpg	http://lackey.vtes.online/common/bot.jpg	628022
 plugins/vtes/defaultchat.txt	http://lackey.vtes.online/common/defaultchat.txt	73596
 plugins/vtes/sounds/chatconfig.txt	http://lackey.vtes.online/common/chatconfig.txt	110355
 plugins/vtes/formats.txt	http://lackey.vtes.online/high/formats.txt	216371
 plugins/vtes/rules.txt	http://lackey.vtes.online/common/rules.txt	9624070
-plugins/vtes/changelog.txt	http://lackey.vtes.online/high/changelog.txt	854691
-plugins/vtes/uninstall.txt	http://lackey.vtes.online/high/uninstall.txt	4619
+plugins/vtes/changelog.txt	http://lackey.vtes.online/high/changelog.txt	880366
+plugins/vtes/uninstall.txt	http://lackey.vtes.online/high/uninstall.txt	588207
 plugins/vtes/pluginpreferences.txt	http://lackey.vtes.online/common/pluginpreferences.txt	393663
 plugins/vtes/sets/antipodean.txt	http://lackey.vtes.online/common/sets/antipodean.txt	784929
-plugins/vtes/sets/allsets.txt	http://lackey.vtes.online/high/allsets.txt	93416681
+plugins/vtes/sets/allsets.txt	http://lackey.vtes.online/high/allsets.txt	93451966
 plugins/vtes/sets/ascensionofcaine.txt	http://lackey.vtes.online/common/sets/ascensionofcaine.txt	126900
 plugins/vtes/sets/budapest2012.txt	http://lackey.vtes.online/common/sets/budapest2012.txt	71983
 plugins/vtes/sets/cultist.txt	http://lackey.vtes.online/common/sets/cultist.txt	692128
