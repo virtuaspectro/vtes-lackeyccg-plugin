@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>041221</dateYYMMDD>
+<dateYYMMDD>211204</dateYYMMDD>
 <removepath>sets/setimages/general/47thstreetroyals.jpg</removepath>
 <removepath>sets/setimages/general/abyssalhunter.jpg</removepath>
 <removepath>sets/setimages/general/acheronvortex.jpg</removepath>
@@ -376,4 +376,5 @@
 <removepath>sets/setimages/general/zapaderin.jpg</removepath>
 <removepath>sets/setimages/general/zombie.jpg</removepath>
 <removepath>sets/setimages/general/zoohuntingground.jpg</removepath>
+<removepath>sets/setimages/general/girdminions.jpg</removepath>
 </uninstall>

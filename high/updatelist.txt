@@ -28,7 +28,7 @@ plugins/vtes/sounds/chatconfig.txt	http://lackey.vtes.online/common/chatconfig.t
 plugins/vtes/formats.txt	http://lackey.vtes.online/high/formats.txt	216371
 plugins/vtes/rules.txt	http://lackey.vtes.online/common/rules.txt	9624070
 plugins/vtes/changelog.txt	http://lackey.vtes.online/high/changelog.txt	894602
-plugins/vtes/uninstall.txt	http://lackey.vtes.online/high/uninstall.txt	2466335
+plugins/vtes/uninstall.txt	http://lackey.vtes.online/high/uninstall.txt	2472630
 plugins/vtes/pluginpreferences.txt	http://lackey.vtes.online/common/pluginpreferences.txt	422278
 plugins/vtes/sets/antipodean.txt	http://lackey.vtes.online/common/sets/antipodean.txt	784929
 plugins/vtes/sets/allsets.txt	http://lackey.vtes.online/high/allsets.txt	94631919
