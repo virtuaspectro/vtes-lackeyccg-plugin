@@ -1,11 +1,11 @@
-vtes	11-14-21
+vtes	12-04-21
 plugins/vtes/plugininfo.txt	http://lackey.vtes.online/common/plugininfo.txt	429395
 plugins/vtes/spawned.png	http://lackey.vtes.online/high/images/spawned.png	171299
 plugins/vtes/cardback.jpg	http://lackey.vtes.online/high/images/cardback.jpg	396960
 plugins/vtes/sets/setimages/general/anarchcounter.jpg	http://lackey.vtes.online/high/images/anarchcounter.jpg	326214
 plugins/vtes/sets/setimages/general/blackhandcounter.jpg	http://lackey.vtes.online/high/images/blackhandcounter.jpg	264308
 plugins/vtes/sets/setimages/general/corruptioncounter.jpg	http://lackey.vtes.online/high/images/corruptioncounter.jpg	332837
-plugins/vtes/sets/setimages/general/edge.png	http://lackey.vtes.online/high/images/edge.png	0
+plugins/vtes/sets/setimages/general/edge.png	http://lackey.vtes.online/high/images/edge.png	-13292
 plugins/vtes/sets/setimages/general/imbuedrules1.jpg	http://lackey.vtes.online/high/images/imbuedrules1.jpg	332705
 plugins/vtes/sets/setimages/general/imbuedrules2.jpg	http://lackey.vtes.online/high/images/imbuedrules2.jpg	346120
 plugins/vtes/sets/setimages/general/imbuedrules3.jpg	http://lackey.vtes.online/high/images/imbuedrules3.jpg	330181
@@ -20,18 +20,18 @@ plugins/vtes/sets/setimages/general/seating4.jpg	http://lackey.vtes.online/high/
 plugins/vtes/sets/setimages/general/seating5.jpg	http://lackey.vtes.online/high/images/seating5.jpg	349279
 plugins/vtes/sets/setimages/general/cardbacktoken.jpg	http://lackey.vtes.online/high/images/cardbacktoken.jpg	329594
 plugins/vtes/sets/setimages/general/cardbackcrypt.jpg	http://lackey.vtes.online/high/images/cardbackcrypt.jpg	373442
-plugins/vtes/version.txt	http://lackey.vtes.online/high/version.txt	25223
-plugins/vtes/setlist.txt	http://lackey.vtes.online/high/setlist.txt	69916
+plugins/vtes/version.txt	http://lackey.vtes.online/high/version.txt	25215
+plugins/vtes/setlist.txt	http://lackey.vtes.online/high/setlist.txt	70403
 plugins/vtes/bot.jpg	http://lackey.vtes.online/common/bot.jpg	628022
-plugins/vtes/defaultchat.txt	http://lackey.vtes.online/common/defaultchat.txt	73596
+plugins/vtes/defaultchat.txt	http://lackey.vtes.online/common/defaultchat.txt	41706
 plugins/vtes/sounds/chatconfig.txt	http://lackey.vtes.online/common/chatconfig.txt	110355
 plugins/vtes/formats.txt	http://lackey.vtes.online/high/formats.txt	216371
 plugins/vtes/rules.txt	http://lackey.vtes.online/common/rules.txt	9624070
-plugins/vtes/changelog.txt	http://lackey.vtes.online/high/changelog.txt	880366
-plugins/vtes/uninstall.txt	http://lackey.vtes.online/high/uninstall.txt	588207
-plugins/vtes/pluginpreferences.txt	http://lackey.vtes.online/common/pluginpreferences.txt	393663
+plugins/vtes/changelog.txt	http://lackey.vtes.online/high/changelog.txt	894602
+plugins/vtes/uninstall.txt	http://lackey.vtes.online/high/uninstall.txt	2466335
+plugins/vtes/pluginpreferences.txt	http://lackey.vtes.online/common/pluginpreferences.txt	422278
 plugins/vtes/sets/antipodean.txt	http://lackey.vtes.online/common/sets/antipodean.txt	784929
-plugins/vtes/sets/allsets.txt	http://lackey.vtes.online/high/allsets.txt	93451966
+plugins/vtes/sets/allsets.txt	http://lackey.vtes.online/high/allsets.txt	94632589
 plugins/vtes/sets/ascensionofcaine.txt	http://lackey.vtes.online/common/sets/ascensionofcaine.txt	126900
 plugins/vtes/sets/budapest2012.txt	http://lackey.vtes.online/common/sets/budapest2012.txt	71983
 plugins/vtes/sets/cultist.txt	http://lackey.vtes.online/common/sets/cultist.txt	692128
@@ -40,7 +40,7 @@ plugins/vtes/sets/princeofhell.txt	http://lackey.vtes.online/common/sets/princeo
 plugins/vtes/sets/mythic.txt	http://lackey.vtes.online/common/sets/mythic.txt	218767
 plugins/vtes/sets/ragnarokthefinalbattle.txt	http://lackey.vtes.online/common/sets/ragnarokthefinalbattle.txt	990085
 plugins/vtes/sets/redsign.txt	http://lackey.vtes.online/common/sets/redsign.txt	1327798
-plugins/vtes/sets/tokens.txt	http://lackey.vtes.online/common/sets/tokens.txt	429109
+plugins/vtes/sets/tokens.txt	http://lackey.vtes.online/high/tokens.txt	429109
 images/avatars/vtes.jpg	http://lackey.vtes.online/common/images/avatars/vtes.jpg	257208
 images/avatars/vtes2.jpg	http://lackey.vtes.online/common/images/avatars/vtes2.jpg	5885
 images/avatars/vtes3.jpg	http://lackey.vtes.online/common/images/avatars/vtes3.jpg	193708

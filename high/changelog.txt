@@ -1,5 +1,18 @@
 LackeyCCG VTES Plugin - Changelog
 
+3.60 - 04/DECEMBER/2021
+
+Added V5 Anarchs Set
+
+Fix installation bug
+
+New Pool handling Buttons
+
+Updated cards with latest texts and images
+
+Updated database to latest official CSV card list (01/DEC/2021)
+
+
 3.59 - 14/NOVEMBER/2021
 
 Added Promo Pack 3 promos and Ravnos/Chimerstry POD
