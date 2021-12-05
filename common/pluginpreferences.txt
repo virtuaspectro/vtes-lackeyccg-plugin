@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>210819</lastversionupdate>
+<lastversionupdate>211204</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>vtes</recentskins>
@@ -20,23 +20,23 @@
 <canned>NUDGE                   (nudge.wav)</canned>
 <canned>Bleed                   (bleed.wav)</canned>
 <canned>Hunt                    (hunt.wav)</canned>
-<canned>Diablerie                    (diablerie.wav)</canned>
-<canned>Rescue torpor                    (rescue-from-torpor.wav)</canned>
-<canned>Card Special Text                    (card-special-text.wav)</canned>
-<canned>No Block Attempt                    (no-block-attempt.wav)</canned>
-<canned>Try to Block                    (try-to-block.wav)</canned>
-<canned>Stealth                    (stealth.wav)</canned>
-<canned>Intercept                    (intercept.wav)</canned>
-<canned>No Pre-Maneuver                    (no-pre-maneuver.wav)</canned>
-<canned>No Maneuver                    (no-maneuver.wav)</canned>
-<canned>Maneuver to Long                    (maneuver-to-long.wav)</canned>
-<canned>Maneuver to Close                    (maneuver-to-close.wav)</canned>
-<canned>Hand Strike                    (hand-strike.wav)</canned>
-<canned>No Press                    (no-press.wav)</canned>
-<canned>Press to Continue                    (press-to-continue.wav)</canned>
-<canned>Press to End                    (press-to-end.wav)</canned>
-<canned>Vote in Favour                    (vote-in-favour.wav)</canned>
-<canned>Vote Against                    (vote-against.wav)</canned>
+<canned>Diablerie               (diablerie.wav)</canned>
+<canned>Rescue torpor           (rescue-from-torpor.wav)</canned>
+<canned>Card Special Text       (card-special-text.wav)</canned>
+<canned>No Block Attempt        (no-block-attempt.wav)</canned>
+<canned>Try to Block            (try-to-block.wav)</canned>
+<canned>No Pre-Maneuver         (no-pre-maneuver.wav)</canned>
+<canned>No Maneuver             (no-maneuver.wav)</canned>
+<canned>Maneuver                (maneuver.wav)</canned>
+<canned>Hand Strike             (hand-strike.wav)</canned>
+<canned>No Press                (no-press.wav)</canned>
+<canned>Press                   (press.wav)</canned>
+<canned>/-1</canned>
+<canned>/-2</canned>
+<canned>/-4</canned>
+<canned>/+1</canned>
+<canned>/+2</canned>
+<canned>/+3</canned>
 <tokens>Edge</tokens>
 <tokens>Black Hand Counter</tokens>
 <tokens>Anarch Counter</tokens>
