@@ -858,6 +858,7 @@ Krassimir	BLM	krassimirg2,cardbackcrypt	BL	Vampire	True Brujah	2	7	dom nec pre P
 Krid	CEM	kridg3,cardbackcrypt	 BSC	Vampire	Nosferatu	3	2	obf			Camarilla.	CE:V, BSC:X	Becky Cloonan
 Kurt Densch	CEM	kurtdenschg3,cardbackcrypt	 BSC	Vampire	Nosferatu	3	8	ani aus cel OBF POT			Camarilla: During your unlock phase, you may look at the top card of your library, and Kurt may burn 1 blood to move that card to the bottom of your library. +1 intercept.	CE:V, Anarchs:PAB, BSC:X	Mike Danza
 Kurt Strauss	SabbatM	kurtstraussg2,cardbackcrypt	 BH	Vampire	Tremere antitribu	2	5	aus tha DOM			Sabbat.	Sabbat:V, BH:PTr	Phillip Tan
+Kuyen	PromoM	kuyeng6,cardbackcrypt	Promo	Vampire	Gangrel	6	6	ANI PRO			Anarch Baron of Santiago: Animals (allies and retainers) cost Kuyen 1 fewer blood or pool.	Promo	Gines Quinonero
 Kyle Strathcona, Cardinal of Canada	SWM	kylestrathconacardinalofcanadag2,cardbackcrypt	SW	Vampire	Ventrue antitribu	2	9	for AUS DOM POT PRE			Sabbat cardinal: During your unlock phase, you may move 1 blood from Kyle to any other controlled Sabbat vampire.	SW:PV	John Van Fleet
 Kyoko Shinsegawa	CEM	kyokoshinsegawag3,cardbackcrypt	 BSC	Vampire	Tremere	3	5	aus cel dom for			Camarilla: Kyoko cannot hunt as normal. She may hunt by stealing a blood from another ready vampire as a +1 stealth (D) action.	CE:V, BSC:X	Max Shade Fellwalker
 Kyrylo	HttBM	kyrylog5,cardbackcrypt	HttB	Vampire	Blood Brother	5	4	for SAN			Sabbat: Kiev circle. Sterile.	HttB:U/A2	Ken Meyer, Jr.

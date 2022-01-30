@@ -1,5 +1,10 @@
 LackeyCCG VTES Plugin - Changelog
 
+3.61 - 30/JANUARY/2022
+
+Added Kuyén Promo
+
+
 3.60 - 04/DECEMBER/2021
 
 Added V5 Anarchs Set
