@@ -13,7 +13,7 @@ tokens.txt
 
 11
 Library
-46
+47
 25th
 AH
 AHB
@@ -42,6 +42,7 @@ KoT
 LK
 LoB
 LotN
+NB
 NoR
 NoRB
 Promo
@@ -62,7 +63,7 @@ Token
 V5A
 
 Crypt
-39
+40
 25thM
 AHM
 AnarchsM
@@ -89,6 +90,7 @@ KoTM
 LKM
 LoBM
 LotNM
+NBM
 NoRM
 PromoM
 SabbatM

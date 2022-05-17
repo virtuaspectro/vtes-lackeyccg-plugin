@@ -1,5 +1,10 @@
 LackeyCCG VTES Plugin - Changelog
 
+3.62 - 17/MAY/2022
+
+Added New Blood Set
+
+
 3.61 - 30/JANUARY/2022
 
 Added Kuyén Promo
