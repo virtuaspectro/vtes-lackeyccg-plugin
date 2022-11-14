@@ -31,7 +31,7 @@ plugins/vtes/changelog.txt	https://lackey.krcg.org/changelog.txt	908042
 plugins/vtes/uninstall.txt	https://lackey.krcg.org/uninstall.txt	1066085
 plugins/vtes/pluginpreferences.txt	https://lackey.krcg.org/pluginpreferences.txt	0
 plugins/vtes/sets/antipodean.txt	https://lackey.krcg.org/sets/antipodean.txt	784929
-plugins/vtes/sets/allsets.txt	https://lackey.krcg.org/sets/allsets.txt	95521444
+plugins/vtes/sets/allsets.txt	https://lackey.krcg.org/sets/allsets.txt	95544832
 plugins/vtes/sets/ascensionofcaine.txt	https://lackey.krcg.org/sets/ascensionofcaine.txt	126900
 plugins/vtes/sets/budapest2012.txt	https://lackey.krcg.org/sets/budapest2012.txt	71983
 plugins/vtes/sets/cultist.txt	https://lackey.krcg.org/sets/cultist.txt	692128
