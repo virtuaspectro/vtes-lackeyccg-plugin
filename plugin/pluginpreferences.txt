@@ -1,22 +1,8 @@
 <pluginpreferences>
 
-<lastversionupdate>220517</lastversionupdate>
+<lastversionupdate>221104</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
-<recentskins>vtes</recentskins>
-<recentskins>default_white</recentskins>
-<recentskins>default</recentskins>
-<recentzonebackgrounds>vtes_zonebackground.jpg</recentzonebackgrounds>
-<recentoutgoingsound>plugins/vtes/sounds/try-to-block.wav</recentoutgoingsound>
-<recentoutgoingsound>plugins/vtes/sounds/perai-bixo.wav</recentoutgoingsound>
-<recentoutgoingsound>plugins/vtes/sounds/nudge.wav</recentoutgoingsound>
-<recentoutgoingsound>plugins/vtes/sounds/no-maneuver.wav</recentoutgoingsound>
-<recentoutgoingsound>plugins/vtes/sounds/referendum.wav</recentoutgoingsound>
-<recentincomingsound>plugins/vtes/sounds/press-to-continue.wav</recentincomingsound>
-<recentincomingsound>plugins/vtes/sounds/boramacho.wav</recentincomingsound>
-<recentincomingsound>plugins/vtes/sounds/hand-strike.wav</recentincomingsound>
-<recentincomingsound>plugins/vtes/sounds/bleed.wav</recentincomingsound>
-<recentincomingsound>plugins/vtes/sounds/no-block-attempt.wav</recentincomingsound>
 <canned>NUDGE                   (nudge.wav)</canned>
 <canned>Bleed                   (bleed.wav)</canned>
 <canned>Hunt                    (hunt.wav)</canned>
