@@ -1,5 +1,9 @@
 # Changelog - LackeyCCG VTES Plugin
 
+- **3.63 - 14/NOVEMBER/2022**
+    + Added Fall of London
+    + New plugin URL: https://lackey.krcg.org/updatelist.txt
+    + Folders for precon decks (Legacy, Storyline, 5E)
 - **3.62 - 17/MAY/2022** Added New Blood Set
 - **3.61 - 30/JANUARY/2022** Added Kuyén Promo
 - **3.60 - 04/DECEMBER/2021**
