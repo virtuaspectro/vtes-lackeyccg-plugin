@@ -32,6 +32,7 @@ DS
 DSB
 EK
 FB
+FoL
 FN
 Gehenna
 HttB
@@ -81,6 +82,7 @@ DSM
 DSBM
 EKM
 FBM
+FoLM
 FNM
 GehennaM
 HttBM

@@ -1,5 +1,11 @@
 LackeyCCG VTES Plugin - Changelog
 
+3.63 - 14/November/2022
+
+Added Fall of London Set
+
+Added a second Edge token
+
 3.62 - 17/MAY/2022
 
 Added New Blood Set

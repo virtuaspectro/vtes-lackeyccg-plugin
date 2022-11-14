@@ -15,6 +15,7 @@
      <set>DS</set>
      <set>EK</set>
      <set>FB</set>
+     <set>FoL</set>
      <set>FN</set>
      <set>Gehenna</set>
      <set>HttB</set>
@@ -55,6 +56,7 @@
      <set>DSM</set>
      <set>EKM</set>
      <set>FBM</set>
+     <set>FoLM</set>
      <set>FNM</set>
      <set>GehennaM</set>
      <set>HttBM</set>
@@ -95,6 +97,11 @@
  <format>
     <label>Eden's Legacy Storyline</label>
      <set>EdensLegacy</set>
+ </format>
+ <format>
+    <label>Fall Of London Storyline</label>
+     <set>FoL</set>
+     <set>FolM</set>
  </format>
  <format>
     <label>Milleniumn Culitists</label>
