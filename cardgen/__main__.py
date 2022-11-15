@@ -144,9 +144,8 @@ def _write_card(f, c):
                 str(c.capacity or ""),
                 # TODO: Thaumaturgy -> Blood Sorcery?
                 disciplines,
-                # TODO: indicate costs
-                "",  # str(c.pool_cost or ""),
-                "",  # str(c.blood_cost or ""),
+                str(c.pool_cost or ""),
+                str(c.blood_cost or ""),
                 unidecode(card_text),
                 _generate_set(c._set),
             ]
