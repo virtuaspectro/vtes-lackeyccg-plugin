@@ -170,9 +170,6 @@ def _generate_set(sets):
             else:
                 s = "Promo"
                 has_promo = True
-        # remove Third Starter Kit (new CSV info)
-        if s.startswith("Third"):
-            s = "/".join(p for p in s.split("/") if not p.startswith("SK"))
         ret.append(s)
     return ", ".join(ret)
 
@@ -188,3 +185,6 @@ def main():
         )
         for c in cards:
             _write_card(f, c)
+
+
+main()
