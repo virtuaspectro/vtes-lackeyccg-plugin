@@ -96,10 +96,6 @@ PRECONS_MAP = {
     k: {w: u for u, w in v.items()} for k, v in cards.Card._RARITY_PRECON_CODES.items()
 }
 PRECONS_MAP["Promo"] = {"Humble Bundle": "HB"}
-CLANS_MAPS = {
-    "Banu Haqim": "Assamite",
-    "Ministry": "Follower of Set",
-}
 
 
 def _write_card(f, c):
@@ -128,9 +124,6 @@ def _write_card(f, c):
         disciplines = separator.join(c.disciplines)
     card_text = c.card_text.replace("\t", " ").replace("\n", " ")
     card_text = card_text.replace("Ⓓ", "(D)")
-    card_text = card_text.replace("Blood Sorcery", "Thaumaturgy")
-    card_text = card_text.replace("Banu Haqim", "Assamite")
-    card_text = card_text.replace("Ministry", "Follower of Set")
     card_text = card_text.replace("/", "").replace("{", "").replace("}", "")
     f.write(
         "\t".join(
@@ -139,10 +132,9 @@ def _write_card(f, c):
                 c.ordered_sets[-1],
                 filename,
                 "/".join(c.types),
-                "/".join(CLANS_MAPS.get(clan, clan) for clan in c.clans),
+                "/".join(c.clans),
                 str(c.group or ""),
                 str(c.capacity or ""),
-                # TODO: Thaumaturgy -> Blood Sorcery?
                 disciplines,
                 str(c.pool_cost or ""),
                 str(c.blood_cost or ""),
