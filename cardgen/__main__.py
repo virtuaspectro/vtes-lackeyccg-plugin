@@ -136,10 +136,8 @@ def _write_card(f, c):
         "\t".join(
             [
                 cardname,
-                # TODO: replace by last set, use real name
-                setname,
+                c.ordered_sets[-1],
                 filename,
-                SET_MAP[c.ordered_sets[-1]],
                 "/".join(c.types),
                 "/".join(CLANS_MAPS.get(clan, clan) for clan in c.clans),
                 str(c.group or ""),
@@ -151,7 +149,6 @@ def _write_card(f, c):
                 "",  # str(c.blood_cost or ""),
                 unidecode(card_text),
                 _generate_set(c._set),
-                "; ".join(unidecode(a) for a in c.artists),
             ]
         )
         + "\n"
@@ -177,7 +174,7 @@ def main():
     vtes.VTES.load_from_vekn()
     with open("plugin/sets/allsets.txt", "w") as f:
         f.write(
-            "Name	SET	ImageFile	Expansion	Type	Clan	Group	Capacity	Discipline	PoolCost	BloodCost	Text	Rarity	Artist\n"
+            "Name	Set	ImageFile	Type	Clan	Group	Capacity	Discipline	PoolCost	BloodCost	Text	Rarity\n"
         )
         cards = sorted(
             vtes.VTES, key=lambda c: (c.library, unidecode(c._name).casefold())
