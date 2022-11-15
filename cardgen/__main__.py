@@ -92,7 +92,6 @@ SET_MAP = {
     "Winter 2002 Storyline promo": "Promo",
 }
 
-DISCIPLINES_MAP = {v: k.title() for k, v in cards.Card._DISC_MAP.items()}
 PRECONS_MAP = {
     k: {w: u for u, w in v.items()} for k, v in cards.Card._RARITY_PRECON_CODES.items()
 }
@@ -126,7 +125,7 @@ def _write_card(f, c):
             separator = " & "
         else:
             separator = "/"
-        disciplines = separator.join(DISCIPLINES_MAP[d] for d in c.disciplines)
+        disciplines = separator.join(c.disciplines)
     card_text = c.card_text.replace("\t", " ").replace("\n", " ")
     card_text = card_text.replace("Ⓓ", "(D)")
     card_text = card_text.replace("Blood Sorcery", "Thaumaturgy")
