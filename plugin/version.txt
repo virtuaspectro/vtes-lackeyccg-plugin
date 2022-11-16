@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>221114</lastupdateYYMMDD>
+<lastupdateYYMMDD>221116</lastupdateYYMMDD>
  <quality>HIGH</quality>
- <versionurl>http://lackey.vtes.online/high/version.txt</versionurl>
- <updateurl>http://lackey.vtes.online/high/updatelist.txt</updateurl>
- <message>VtES update to version 3.63.</message>
+ <versionurl>https://lackey.krcg.org/version.txt</versionurl>
+ <updateurl>https://lackey.krcg.org/updatelist.txt</updateurl>
+ <message>VtES updated to version 2022-11-16</message>
 </version>

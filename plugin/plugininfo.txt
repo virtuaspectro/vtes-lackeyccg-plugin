@@ -8,7 +8,6 @@
       <gamezonetoloadto>Library</gamezonetoloadto>
       <shuffle>yes</shuffle>
  </deckzone>
-
 <deckzone>
       <label>Crypt</label>
       <gamezonetoloadto>Crypt</gamezonetoloadto>
@@ -19,30 +18,22 @@
       <label>Hand</label>
       <visibletoowner>yes</visibletoowner>
  </gamezone>
-
 <gamezone>
       <label>Library</label>
  </gamezone>
-
 <gamezone>
       <label>Ash Heap</label>
       <visibletoowner>yes</visibletoowner>
       <visibletoothers>yes</visibletoothers>
  </gamezone>
-
 <gamezone>
       <label>Crypt</label>
  </gamezone>
-
-<gamezone>
-      <label>Research</label>
-      <visibletoowner>yes</visibletoowner>
- </gamezone>
- 
 <gamezone>
       <label>Removed</label>
       <visibletoowner>yes</visibletoowner>
       <visibletoothers>yes</visibletoothers>
+      <isshared>yes</isshared>
  </gamezone>
 
  <phase><label>Unlock</label></phase>
@@ -69,10 +60,9 @@
 	<destinationowner>table</destinationowner><destinationposition>facedown</destinationposition>
 	<includeasbutton>yes</includeasbutton>
  </generalfunction>
-<generalfunction><label>Next Turn</label><kind>NEXTTURN</kind></generalfunction>
  
-<cardfunction><label>Unlock</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Lock</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Unlock</label><kind>MAKERIGHT0DEGREES</kind></cardfunction>
+<cardfunction><label>Lock</label><kind>MAKERIGHT90DEGREES</kind></cardfunction>
 <cardfunction><label>Gain Blood</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.84</PositionX><PositionY>.11</PositionY></cardfunction>
 <cardfunction><label>Burn Blood</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Gain Life</label><kind>ADDCOUNTER</kind><color>white</color><PositionX>.16</PositionX><PositionY>.11</PositionY></cardfunction>
@@ -81,14 +71,12 @@
 <cardfunction><label>Green Counter -1</label><kind>REMOVECOUNTER</kind><color>green</color></cardfunction>
 <cardfunction><label>Orange Counter +1</label><kind>ADDCOUNTER</kind><color>orange</color><PositionX>.84</PositionX><PositionY>.88</PositionY></cardfunction>
 <cardfunction><label>Orange Counter -1</label><kind>REMOVECOUNTER</kind><color>orange</color></cardfunction>
-<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><PositionX>.4</PositionX><PositionY>.40</PositionY></cardfunction>
+<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><PositionX>.4</PositionX><PositionY>.40</PositionY><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Turn Card</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Immune To Unlock All</label><kind>TOGGLETURNALLIMMUNITY</kind></cardfunction>
 
 <definition><kind>REUSECARDIMAGES</kind></definition>
 <definition><kind>ISYOURFACEDOWNVISIBLE</kind><value>yes</value></definition>
 <definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
-<definition><kind>RULEBOOKFILE</kind><value>rules.txt</value></definition>
-<definition><kind>KEEPDISCONNECTEDPLAYERCARDS</kind></definition>
 </plugin>

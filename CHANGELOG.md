@@ -1,5 +1,10 @@
 # Changelog - LackeyCCG VTES Plugin
-
+- **2022-11-16**
+    + Added a start state with seating and edge
+    + Added two new edge tokens
+    + New avatar images
+    + Changed version number to simple ISO date
+    + Minor fixes on cards and images location
 - **3.63 - 14/NOVEMBER/2022**
     + Added Fall of London
     + New plugin URL: https://lackey.krcg.org/updatelist.txt

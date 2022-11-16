@@ -1,54 +1,18 @@
-vtes	11-14-22
-plugins/vtes/plugininfo.txt	https://lackey.krcg.org/plugininfo.txt	429395
-plugins/vtes/spawned.png	https://lackey.krcg.org/spawned.png	171299
+vtes	11-16-22
+plugins/vtes/bot.jpg	https://lackey.krcg.org/bot.jpg	80581
 plugins/vtes/cardback.jpg	https://lackey.krcg.org/cardback.jpg	396960
-plugins/vtes/sets/setimages/general/anarchcounter.jpg	https://lackey.krcg.org/sets/setimages/general/anarchcounter.jpg	326214
-plugins/vtes/sets/setimages/general/blackhandcounter.jpg	https://lackey.krcg.org/sets/setimages/general/blackhandcounter.jpg	264308
-plugins/vtes/sets/setimages/general/corruptioncounter.jpg	https://lackey.krcg.org/sets/setimages/general/corruptioncounter.jpg	332837
-plugins/vtes/sets/setimages/general/edge.png	https://lackey.krcg.org/sets/setimages/general/edge.png	-13292
-plugins/vtes/sets/setimages/general/imbuedrules1.jpg	https://lackey.krcg.org/sets/setimages/general/imbuedrules1.jpg	332705
-plugins/vtes/sets/setimages/general/imbuedrules2.jpg	https://lackey.krcg.org/sets/setimages/general/imbuedrules2.jpg	346120
-plugins/vtes/sets/setimages/general/imbuedrules3.jpg	https://lackey.krcg.org/sets/setimages/general/imbuedrules3.jpg	330181
-plugins/vtes/sets/setimages/general/imbuedrules4.jpg	https://lackey.krcg.org/sets/setimages/general/imbuedrules4.jpg	335609
-plugins/vtes/sets/setimages/general/imbuedrules5.jpg	https://lackey.krcg.org/sets/setimages/general/imbuedrules5.jpg	336800
-plugins/vtes/sets/setimages/general/liaisonmarker.jpg	https://lackey.krcg.org/sets/setimages/general/liaisonmarker.jpg	317783
-plugins/vtes/sets/setimages/general/quintessencecounter.jpg	https://lackey.krcg.org/sets/setimages/general/quintessencecounter.jpg	348413
-plugins/vtes/sets/setimages/general/seating1.jpg	https://lackey.krcg.org/sets/setimages/general/seating1.jpg	341211
-plugins/vtes/sets/setimages/general/seating2.jpg	https://lackey.krcg.org/sets/setimages/general/seating2.jpg	337438
-plugins/vtes/sets/setimages/general/seating3.jpg	https://lackey.krcg.org/sets/setimages/general/seating3.jpg	304395
-plugins/vtes/sets/setimages/general/seating4.jpg	https://lackey.krcg.org/sets/setimages/general/seating4.jpg	309044
-plugins/vtes/sets/setimages/general/seating5.jpg	https://lackey.krcg.org/sets/setimages/general/seating5.jpg	349279
-plugins/vtes/sets/setimages/general/cardbacktoken.jpg	https://lackey.krcg.org/sets/setimages/general/cardbacktoken.jpg	329594
-plugins/vtes/sets/setimages/general/cardbackcrypt.jpg	https://lackey.krcg.org/sets/setimages/general/cardbackcrypt.jpg	373442
-plugins/vtes/version.txt	https://lackey.krcg.org/version.txt	25224
-plugins/vtes/setlist.txt	https://lackey.krcg.org/setlist.txt	71352
-plugins/vtes/bot.jpg	https://lackey.krcg.org/bot.jpg	628022
-plugins/vtes/defaultchat.txt	https://lackey.krcg.org/defaultchat.txt	41706
-plugins/vtes/sounds/chatconfig.txt	https://lackey.krcg.org/sounds/chatconfig.txt	110355
-plugins/vtes/formats.txt	https://lackey.krcg.org/formats.txt	227388
-plugins/vtes/rules.txt	https://lackey.krcg.org/rules.txt	9634927
-plugins/vtes/changelog.txt	https://lackey.krcg.org/changelog.txt	908042
-plugins/vtes/uninstall.txt	https://lackey.krcg.org/uninstall.txt	1066085
+plugins/vtes/formats.txt	https://lackey.krcg.org/formats.txt	90759
+plugins/vtes/plugininfo.txt	https://lackey.krcg.org/plugininfo.txt	399974
 plugins/vtes/pluginpreferences.txt	https://lackey.krcg.org/pluginpreferences.txt	0
-plugins/vtes/sets/antipodean.txt	https://lackey.krcg.org/sets/antipodean.txt	784929
-plugins/vtes/sets/allsets.txt	https://lackey.krcg.org/sets/allsets.txt	95544832
-plugins/vtes/sets/ascensionofcaine.txt	https://lackey.krcg.org/sets/ascensionofcaine.txt	126900
-plugins/vtes/sets/budapest2012.txt	https://lackey.krcg.org/sets/budapest2012.txt	71983
-plugins/vtes/sets/cultist.txt	https://lackey.krcg.org/sets/cultist.txt	692128
-plugins/vtes/sets/edenslegacy.txt	https://lackey.krcg.org/sets/edenslegacy.txt	102684
-plugins/vtes/sets/falloflondon.txt	https://lackey.krcg.org/sets/falloflondon.txt	116805
-plugins/vtes/sets/princeofhell.txt	https://lackey.krcg.org/sets/princeofhell.txt	1594450
-plugins/vtes/sets/mythic.txt	https://lackey.krcg.org/sets/mythic.txt	218767
-plugins/vtes/sets/ragnarokthefinalbattle.txt	https://lackey.krcg.org/sets/ragnarokthefinalbattle.txt	990085
-plugins/vtes/sets/redsign.txt	https://lackey.krcg.org/sets/redsign.txt	1327798
-plugins/vtes/sets/tokens.txt	https://lackey.krcg.org/sets/tokens.txt	429109
-images/avatars/vtes.jpg	https://lackey.krcg.org/images/avatars/vtes.jpg	257208
-images/avatars/vtes2.jpg	https://lackey.krcg.org/images/avatars/vtes2.jpg	5885
-images/avatars/vtes3.jpg	https://lackey.krcg.org/images/avatars/vtes3.jpg	193708
-images/backgrounds/vtes_background.jpg	https://lackey.krcg.org/images/backgrounds/vtes_background.jpg	-64305
-images/backgrounds/vtesbackground.jpg	https://lackey.krcg.org/images/backgrounds/vtesbackground.jpg	140524
-images/backgrounds/vtestableguide.jpg	https://lackey.krcg.org/images/backgrounds/vtestableguide.jpg	74765
-images/zonebackgrounds/vtes_zonebackground.jpg	https://lackey.krcg.org/images/zonebackgrounds/vtes_zonebackground.jpg	247145
+plugins/vtes/spawned.png	https://lackey.krcg.org/spawned.png	171299
+plugins/vtes/uninstall.txt	https://lackey.krcg.org/uninstall.txt	19462
+plugins/vtes/version.txt	https://lackey.krcg.org/version.txt	24178
+plugins/vtes/saved/start.txt	https://lackey.krcg.org/saved/start.txt	68510
+plugins/vtes/images/phase1.jpg	https://lackey.krcg.org/images/phase1.jpg	276884
+plugins/vtes/images/phase2.jpg	https://lackey.krcg.org/images/phase2.jpg	299605
+plugins/vtes/images/phase3.jpg	https://lackey.krcg.org/images/phase3.jpg	280248
+plugins/vtes/images/phase4.jpg	https://lackey.krcg.org/images/phase4.jpg	270005
+plugins/vtes/images/phase5.jpg	https://lackey.krcg.org/images/phase5.jpg	293232
 plugins/vtes/images/interface/arrow.png	https://lackey.krcg.org/images/interface/arrow.png	4072
 plugins/vtes/images/interface/bar-default.png	https://lackey.krcg.org/images/interface/bar-default.png	-24249
 plugins/vtes/images/interface/button-arrow-down-default-mouseover.png	https://lackey.krcg.org/images/interface/button-arrow-down-default-mouseover.png	-11487
@@ -151,6 +115,19 @@ plugins/vtes/images/interface/tab-right-default-mouseover.png	https://lackey.krc
 plugins/vtes/images/interface/tab-right-default.png	https://lackey.krcg.org/images/interface/tab-right-default.png	12636
 plugins/vtes/images/interface/tab-right-selected-mouseover.png	https://lackey.krcg.org/images/interface/tab-right-selected-mouseover.png	-11716
 plugins/vtes/images/interface/tab-right-selected.png	https://lackey.krcg.org/images/interface/tab-right-selected.png	-8014
+images/zonebackgrounds/vtes_zonebackground.jpg	https://lackey.krcg.org/images/zonebackgrounds/vtes_zonebackground.jpg	247145
+images/backgrounds/vtes_background.jpg	https://lackey.krcg.org/images/backgrounds/vtes_background.jpg	-64305
+images/backgrounds/vtesbackground.jpg	https://lackey.krcg.org/images/backgrounds/vtesbackground.jpg	140524
+images/backgrounds/vtestableguide.jpg	https://lackey.krcg.org/images/backgrounds/vtestableguide.jpg	74765
+images/avatars/gines.jpg	https://lackey.krcg.org/images/avatars/gines.jpg	88522
+images/avatars/vtes.jpg	https://lackey.krcg.org/images/avatars/vtes.jpg	89460
+images/avatars/vtes2.jpg	https://lackey.krcg.org/images/avatars/vtes2.jpg	97729
+images/avatars/vtes3.jpg	https://lackey.krcg.org/images/avatars/vtes3.jpg	83363
+images/avatars/vtes4.jpg	https://lackey.krcg.org/images/avatars/vtes4.jpg	92527
+skins/default.txt	https://lackey.krcg.org/skins/default.txt	349928
+skins/default_white.txt	https://lackey.krcg.org/skins/default_white.txt	340397
+skins/vtes.txt	https://lackey.krcg.org/skins/vtes.txt	349928
+skins/vtes_texture.jpg	https://lackey.krcg.org/skins/vtes_texture.jpg	7493
 plugins/vtes/sounds/0.wav	https://lackey.krcg.org/sounds/0.wav	-16426
 plugins/vtes/sounds/1.wav	https://lackey.krcg.org/sounds/1.wav	-7795
 plugins/vtes/sounds/10.wav	https://lackey.krcg.org/sounds/10.wav	8110
@@ -164,9 +141,6 @@ plugins/vtes/sounds/6.wav	https://lackey.krcg.org/sounds/6.wav	10640
 plugins/vtes/sounds/7.wav	https://lackey.krcg.org/sounds/7.wav	-4377
 plugins/vtes/sounds/8.wav	https://lackey.krcg.org/sounds/8.wav	39669
 plugins/vtes/sounds/9.wav	https://lackey.krcg.org/sounds/9.wav	-1997
-plugins/vtes/sounds/10.wav	https://lackey.krcg.org/sounds/10.wav	8110
-plugins/vtes/sounds/11.wav	https://lackey.krcg.org/sounds/11.wav	-6084
-plugins/vtes/sounds/12.wav	https://lackey.krcg.org/sounds/12.wav	-3211
 plugins/vtes/sounds/absteins.wav	https://lackey.krcg.org/sounds/absteins.wav	-10111
 plugins/vtes/sounds/additional-strike.wav	https://lackey.krcg.org/sounds/additional-strike.wav	-33796
 plugins/vtes/sounds/bleed.wav	https://lackey.krcg.org/sounds/bleed.wav	62841
@@ -176,6 +150,7 @@ plugins/vtes/sounds/boramacho.wav	https://lackey.krcg.org/sounds/boramacho.wav	-
 plugins/vtes/sounds/bounce.wav	https://lackey.krcg.org/sounds/bounce.wav	-16475
 plugins/vtes/sounds/card-special-text.wav	https://lackey.krcg.org/sounds/card-special-text.wav	-41755
 plugins/vtes/sounds/card.wav	https://lackey.krcg.org/sounds/card.wav	-132329
+plugins/vtes/sounds/chatconfig.txt	https://lackey.krcg.org/sounds/chatconfig.txt	110355
 plugins/vtes/sounds/combat.wav	https://lackey.krcg.org/sounds/combat.wav	7253
 plugins/vtes/sounds/combatend.wav	https://lackey.krcg.org/sounds/combatend.wav	-2631
 plugins/vtes/sounds/contest.wav	https://lackey.krcg.org/sounds/contest.wav	85902
@@ -215,8 +190,8 @@ plugins/vtes/sounds/nudge.wav	https://lackey.krcg.org/sounds/nudge.wav	107117
 plugins/vtes/sounds/nudgi.wav	https://lackey.krcg.org/sounds/nudgi.wav	-24471
 plugins/vtes/sounds/ok.wav	https://lackey.krcg.org/sounds/ok.wav	-5764
 plugins/vtes/sounds/pagaopreco.wav	https://lackey.krcg.org/sounds/pagaopreco.wav	-37405
-plugins/vtes/sounds/perai-bixo.wav	https://lackey.krcg.org/sounds/perai-bixo.wav	-63919
 plugins/vtes/sounds/pass.wav	https://lackey.krcg.org/sounds/pass.wav	-5168
+plugins/vtes/sounds/perai-bixo.wav	https://lackey.krcg.org/sounds/perai-bixo.wav	-63919
 plugins/vtes/sounds/phase1.wav	https://lackey.krcg.org/sounds/phase1.wav	16983
 plugins/vtes/sounds/phase2.wav	https://lackey.krcg.org/sounds/phase2.wav	-1689
 plugins/vtes/sounds/phase3.wav	https://lackey.krcg.org/sounds/phase3.wav	9571
@@ -244,59 +219,19 @@ plugins/vtes/sounds/welcome.wav	https://lackey.krcg.org/sounds/welcome.wav	-5418
 plugins/vtes/sounds/yes.wav	https://lackey.krcg.org/sounds/yes.wav	6268
 plugins/vtes/sounds/youdone.wav	https://lackey.krcg.org/sounds/youdone.wav	2176
 plugins/vtes/sounds/youready.wav	https://lackey.krcg.org/sounds/youready.wav	1508
-plugins/vtes/decks/Legacy/Precon_Akunanse_LoB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Akunanse_LoB.txt	68165
-plugins/vtes/decks/Legacy/Precon_Assamite_FN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Assamite_FN.txt	68726
-plugins/vtes/decks/Legacy/Precon_Assamite_LotN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Assamite_LotN.txt	68707
-plugins/vtes/decks/Legacy/Precon_Brujah_KoT.txt	https://lackey.krcg.org/decks/Legacy/Precon_Brujah_KoT.txt	45244
-plugins/vtes/decks/Legacy/Precon_BrujahAnti_SW.txt	https://lackey.krcg.org/decks/Legacy/Precon_BrujahAnti_SW.txt	90186
-plugins/vtes/decks/Legacy/Precon_BrujahAnti_Third.txt	https://lackey.krcg.org/decks/Legacy/Precon_BrujahAnti_Third.txt	71437
-plugins/vtes/decks/Legacy/Precon_Giovanni_FN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Giovanni_FN.txt	110536
-plugins/vtes/decks/Legacy/Precon_Giovanni_LotN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Giovanni_LotN.txt	66738
-plugins/vtes/decks/Legacy/Precon_Guruhi_LoB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Guruhi_LoB.txt	77437
-plugins/vtes/decks/Legacy/Precon_Ishtarri_LoB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Ishtarri_LoB.txt	57875
-plugins/vtes/decks/Legacy/Precon_Lasombra_SW.txt	https://lackey.krcg.org/decks/Legacy/Precon_Lasombra_SW.txt	99371
-plugins/vtes/decks/Legacy/Precon_Malkavian_KoT.txt	https://lackey.krcg.org/decks/Legacy/Precon_Malkavian_KoT.txt	49209
-plugins/vtes/decks/Legacy/Precon_MalkavianAnti_Third.txt	https://lackey.krcg.org/decks/Legacy/Precon_MalkavianAnti_Third.txt	69129
-plugins/vtes/decks/Legacy/Precon_Osebo_LoB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Osebo_LoB.txt	55790
-plugins/vtes/decks/Legacy/Precon_Ravnos_FN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Ravnos_FN.txt	98941
-plugins/vtes/decks/Legacy/Precon_Ravnos_LotN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Ravnos_LotN.txt	56513
-plugins/vtes/decks/Legacy/Precon_Setite_FN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Setite_FN.txt	95337
-plugins/vtes/decks/Legacy/Precon_Setite_LotN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Setite_LotN.txt	66580
-plugins/vtes/decks/Legacy/Precon_Toreador_KoT.txt	https://lackey.krcg.org/decks/Legacy/Precon_Toreador_KoT.txt	50558
-plugins/vtes/decks/Legacy/Precon_TremereAnti_Third.txt	https://lackey.krcg.org/decks/Legacy/Precon_TremereAnti_Third.txt	64268
-plugins/vtes/decks/Legacy/Precon_Tzimisce_SW.txt	https://lackey.krcg.org/decks/Legacy/Precon_Tzimisce_SW.txt	97926
-plugins/vtes/decks/Legacy/Precon_Tzimisce_Third.txt	https://lackey.krcg.org/decks/Legacy/Precon_Tzimisce_Third.txt	70813
-plugins/vtes/decks/Legacy/Precon_Ventrue_KoT.txt	https://lackey.krcg.org/decks/Legacy/Precon_Ventrue_KoT.txt	56042
-plugins/vtes/decks/Legacy/Precon_VentrueAnti_SW.txt	https://lackey.krcg.org/decks/Legacy/Precon_VentrueAnti_SW.txt	110685
-plugins/vtes/decks/Legacy/Precon_Gargoyle&Tremere_HttB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Gargoyle&Tremere_HttB.txt	55007
-plugins/vtes/decks/Legacy/Precon_Kyasid&Lasombra_HttB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Kyasid&Lasombra_HttB.txt	60820
-plugins/vtes/decks/Legacy/Precon_Salubri&VentrueAnti_HttB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Salubri&VentrueAnti_HttB.txt	62429
-plugins/vtes/decks/Legacy/Precon_Samedi&Nosferatu_HttB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Samedi&Nosferatu_HttB.txt	58266
-plugins/vtes/decks/Legacy/Precon_Parliament_of_Shadows_SP.txt	https://lackey.krcg.org/decks/Legacy/Precon_Parliament_of_Shadows_SP.txt	58348
-plugins/vtes/decks/Legacy/Precon_Pact_with_Nephandi_SP.txt	https://lackey.krcg.org/decks/Legacy/Precon_Pact_with_Nephandi_SP.txt	44530
-plugins/vtes/decks/Legacy/Precon_Libertine_Ball_SP.txt	https://lackey.krcg.org/decks/Legacy/Precon_Libertine_Ball_SP.txt	43647
-plugins/vtes/decks/Legacy/Precon_Den_of-Fiends_SP.txt	https://lackey.krcg.org/decks/Legacy/Precon_Den_of-Fiends_SP.txt	52633
-plugins/vtes/decks/Legacy/Precon_Reign_of_Stanislava.txt	https://lackey.krcg.org/decks/Legacy/Precon_Reign_of_Stanislava.txt	64851
-plugins/vtes/decks/5E/Precon_BanuHaqim_V5.txt	https://lackey.krcg.org/decks/5E/Precon_BanuHaqim_V5.txt	46939
-plugins/vtes/decks/5E/Precon_Brujah_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Brujah_V5.txt	48551
-plugins/vtes/decks/5E/Precon_Gangrel_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Gangrel_V5.txt	50169
-plugins/vtes/decks/5E/Precon_Malkavian_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Malkavian_V5.txt	43110
-plugins/vtes/decks/5E/Precon_Ministry_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Ministry_V5.txt	52327
-plugins/vtes/decks/5E/Precon_Nosferatu_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Nosferatu_V5.txt	46315
-plugins/vtes/decks/5E/Precon_Toreador_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Toreador_V5.txt	45059
-plugins/vtes/decks/5E/Precon_Tremere_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Tremere_V5.txt	45201
-plugins/vtes/decks/5E/Precon_Ventrue_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Ventrue_V5.txt	49904
-plugins/vtes/decks/Storyline/Millennium_Cultist.txt	https://lackey.krcg.org/decks/Storyline/Millennium_Cultist.txt	51463
-plugins/vtes/decks/Storyline/Prince_of_Hell.txt	https://lackey.krcg.org/decks/Storyline/Prince_of_Hell.txt	94522
+plugins/vtes/packs/anarchs.jpg	https://lackey.krcg.org/packs/anarchs.jpg	274414
+plugins/vtes/packs/ancient.jpg	https://lackey.krcg.org/packs/ancient.jpg	-5747
+plugins/vtes/packs/ebony.jpg	https://lackey.krcg.org/packs/ebony.jpg	-36792
+plugins/vtes/packs/final.jpg	https://lackey.krcg.org/packs/final.jpg	2757
+plugins/vtes/packs/gehenna.jpg	https://lackey.krcg.org/packs/gehenna.jpg	-3728
+plugins/vtes/packs/hand.jpg	https://lackey.krcg.org/packs/hand.jpg	618
+plugins/vtes/packs/heirs.jpg	https://lackey.krcg.org/packs/heirs.jpg	-24149
+plugins/vtes/packs/jyhad.jpg	https://lackey.krcg.org/packs/jyhad.jpg	-23289
+plugins/vtes/packs/jyhaddeck.jpg	https://lackey.krcg.org/packs/jyhaddeck.jpg	38989
+plugins/vtes/packs/kot.jpg	https://lackey.krcg.org/packs/kot.jpg	-6143
+plugins/vtes/packs/legacies.jpg	https://lackey.krcg.org/packs/legacies.jpg	7143
+plugins/vtes/packs/lords.jpg	https://lackey.krcg.org/packs/lords.jpg	-6940
 plugins/vtes/packs/packdefinitions1.xml	https://lackey.krcg.org/packs/packdefinitions1.xml	80926
-plugins/vtes/packs/packdefinitions2.xml	https://lackey.krcg.org/packs/packdefinitions2.xml	81129
-plugins/vtes/packs/packdefinitions3.xml	https://lackey.krcg.org/packs/packdefinitions3.xml	81976
-plugins/vtes/packs/packdefinitions4.xml	https://lackey.krcg.org/packs/packdefinitions4.xml	83013
-plugins/vtes/packs/packdefinitions5.xml	https://lackey.krcg.org/packs/packdefinitions5.xml	65929
-plugins/vtes/packs/packdefinitions6.xml	https://lackey.krcg.org/packs/packdefinitions6.xml	162519
-plugins/vtes/packs/packdefinitions7.xml	https://lackey.krcg.org/packs/packdefinitions7.xml	81696
-plugins/vtes/packs/packdefinitions8.xml	https://lackey.krcg.org/packs/packdefinitions8.xml	179970
-plugins/vtes/packs/packdefinitions9.xml	https://lackey.krcg.org/packs/packdefinitions9.xml	100321
 plugins/vtes/packs/packdefinitions10.xml	https://lackey.krcg.org/packs/packdefinitions10.xml	51029
 plugins/vtes/packs/packdefinitions11.xml	https://lackey.krcg.org/packs/packdefinitions11.xml	50747
 plugins/vtes/packs/packdefinitions12.xml	https://lackey.krcg.org/packs/packdefinitions12.xml	52724
@@ -307,41 +242,760 @@ plugins/vtes/packs/packdefinitions16.xml	https://lackey.krcg.org/packs/packdefin
 plugins/vtes/packs/packdefinitions17.xml	https://lackey.krcg.org/packs/packdefinitions17.xml	45748
 plugins/vtes/packs/packdefinitions18.xml	https://lackey.krcg.org/packs/packdefinitions18.xml	91456
 plugins/vtes/packs/packdefinitions19.xml	https://lackey.krcg.org/packs/packdefinitions19.xml	46296
+plugins/vtes/packs/packdefinitions2.xml	https://lackey.krcg.org/packs/packdefinitions2.xml	81129
 plugins/vtes/packs/packdefinitions20.xml	https://lackey.krcg.org/packs/packdefinitions20.xml	90684
 plugins/vtes/packs/packdefinitions21.xml	https://lackey.krcg.org/packs/packdefinitions21.xml	90425
 plugins/vtes/packs/packdefinitions22.xml	https://lackey.krcg.org/packs/packdefinitions22.xml	81830
+plugins/vtes/packs/packdefinitions3.xml	https://lackey.krcg.org/packs/packdefinitions3.xml	81976
+plugins/vtes/packs/packdefinitions4.xml	https://lackey.krcg.org/packs/packdefinitions4.xml	83013
+plugins/vtes/packs/packdefinitions5.xml	https://lackey.krcg.org/packs/packdefinitions5.xml	65929
+plugins/vtes/packs/packdefinitions6.xml	https://lackey.krcg.org/packs/packdefinitions6.xml	162519
+plugins/vtes/packs/packdefinitions7.xml	https://lackey.krcg.org/packs/packdefinitions7.xml	81696
+plugins/vtes/packs/packdefinitions8.xml	https://lackey.krcg.org/packs/packdefinitions8.xml	179970
+plugins/vtes/packs/packdefinitions9.xml	https://lackey.krcg.org/packs/packdefinitions9.xml	100321
+plugins/vtes/packs/reckoning.jpg	https://lackey.krcg.org/packs/reckoning.jpg	6371
 plugins/vtes/packs/sabbat.jpg	https://lackey.krcg.org/packs/sabbat.jpg	52261
 plugins/vtes/packs/sovereigns.jpg	https://lackey.krcg.org/packs/sovereigns.jpg	32740
 plugins/vtes/packs/struggle.jpg	https://lackey.krcg.org/packs/struggle.jpg	-4941
-plugins/vtes/packs/ancient.jpg	https://lackey.krcg.org/packs/ancient.jpg	-5747
-plugins/vtes/packs/jyhad.jpg	https://lackey.krcg.org/packs/jyhad.jpg	-23289
-plugins/vtes/packs/ebony.jpg	https://lackey.krcg.org/packs/ebony.jpg	-36792
-plugins/vtes/packs/final.jpg	https://lackey.krcg.org/packs/final.jpg	2757
-plugins/vtes/packs/gehenna.jpg	https://lackey.krcg.org/packs/gehenna.jpg	-3728
-plugins/vtes/packs/kot.jpg	https://lackey.krcg.org/packs/kot.jpg	-6143
-plugins/vtes/packs/legacies.jpg	https://lackey.krcg.org/packs/legacies.jpg	7143
-plugins/vtes/packs/lords.jpg	https://lackey.krcg.org/packs/lords.jpg	-6940
 plugins/vtes/packs/sword.jpg	https://lackey.krcg.org/packs/sword.jpg	-19624
 plugins/vtes/packs/third.jpg	https://lackey.krcg.org/packs/third.jpg	-15195
 plugins/vtes/packs/twilight.jpg	https://lackey.krcg.org/packs/twilight.jpg	-21032
-plugins/vtes/packs/war.jpg	https://lackey.krcg.org/packs/war.jpg	50804
-plugins/vtes/packs/hand.jpg	https://lackey.krcg.org/packs/hand.jpg	618
-plugins/vtes/packs/heirs.jpg	https://lackey.krcg.org/packs/heirs.jpg	-24149
-plugins/vtes/packs/anarchs.jpg	https://lackey.krcg.org/packs/anarchs.jpg	274414
-plugins/vtes/packs/wanted.jpg	https://lackey.krcg.org/packs/wanted.jpg	21646
-plugins/vtes/packs/reckoning.jpg	https://lackey.krcg.org/packs/reckoning.jpg	6371
 plugins/vtes/packs/vtes.jpg	https://lackey.krcg.org/packs/vtes.jpg	56264
-plugins/vtes/packs/jyhaddeck.jpg	https://lackey.krcg.org/packs/jyhaddeck.jpg	38989
-plugins/vtes/images/phase1.jpg	https://lackey.krcg.org/images/phase1.jpg	276884
-plugins/vtes/images/phase2.jpg	https://lackey.krcg.org/images/phase2.jpg	299605
-plugins/vtes/images/phase3.jpg	https://lackey.krcg.org/images/phase3.jpg	280248
-plugins/vtes/images/phase4.jpg	https://lackey.krcg.org/images/phase4.jpg	270005
-plugins/vtes/images/phase5.jpg	https://lackey.krcg.org/images/phase5.jpg	293232
+plugins/vtes/packs/wanted.jpg	https://lackey.krcg.org/packs/wanted.jpg	21646
+plugins/vtes/packs/war.jpg	https://lackey.krcg.org/packs/war.jpg	50804
+plugins/vtes/decks/Storyline/Millennium_Cultist.txt	https://lackey.krcg.org/decks/Storyline/Millennium_Cultist.txt	51463
+plugins/vtes/decks/Storyline/Prince_of_Hell.txt	https://lackey.krcg.org/decks/Storyline/Prince_of_Hell.txt	94522
+plugins/vtes/decks/Legacy/Precon_Akunanse_LoB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Akunanse_LoB.txt	68165
+plugins/vtes/decks/Legacy/Precon_Assamite_FN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Assamite_FN.txt	68726
+plugins/vtes/decks/Legacy/Precon_Assamite_LotN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Assamite_LotN.txt	68707
+plugins/vtes/decks/Legacy/Precon_BrujahAnti_SW.txt	https://lackey.krcg.org/decks/Legacy/Precon_BrujahAnti_SW.txt	90186
+plugins/vtes/decks/Legacy/Precon_BrujahAnti_Third.txt	https://lackey.krcg.org/decks/Legacy/Precon_BrujahAnti_Third.txt	71437
+plugins/vtes/decks/Legacy/Precon_Brujah_KoT.txt	https://lackey.krcg.org/decks/Legacy/Precon_Brujah_KoT.txt	45244
+plugins/vtes/decks/Legacy/Precon_Den_of-Fiends_SP.txt	https://lackey.krcg.org/decks/Legacy/Precon_Den_of-Fiends_SP.txt	52633
+plugins/vtes/decks/Legacy/Precon_Gargoyle&Tremere_HttB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Gargoyle&Tremere_HttB.txt	55007
+plugins/vtes/decks/Legacy/Precon_Giovanni_FN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Giovanni_FN.txt	110536
+plugins/vtes/decks/Legacy/Precon_Giovanni_LotN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Giovanni_LotN.txt	66738
+plugins/vtes/decks/Legacy/Precon_Guruhi_LoB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Guruhi_LoB.txt	77437
+plugins/vtes/decks/Legacy/Precon_Ishtarri_LoB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Ishtarri_LoB.txt	57875
+plugins/vtes/decks/Legacy/Precon_Kyasid&Lasombra_HttB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Kyasid&Lasombra_HttB.txt	60820
+plugins/vtes/decks/Legacy/Precon_Lasombra_SW.txt	https://lackey.krcg.org/decks/Legacy/Precon_Lasombra_SW.txt	99371
+plugins/vtes/decks/Legacy/Precon_Libertine_Ball_SP.txt	https://lackey.krcg.org/decks/Legacy/Precon_Libertine_Ball_SP.txt	43647
+plugins/vtes/decks/Legacy/Precon_MalkavianAnti_Third.txt	https://lackey.krcg.org/decks/Legacy/Precon_MalkavianAnti_Third.txt	69129
+plugins/vtes/decks/Legacy/Precon_Malkavian_KoT.txt	https://lackey.krcg.org/decks/Legacy/Precon_Malkavian_KoT.txt	49209
+plugins/vtes/decks/Legacy/Precon_Osebo_LoB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Osebo_LoB.txt	55790
+plugins/vtes/decks/Legacy/Precon_Pact_with_Nephandi_SP.txt	https://lackey.krcg.org/decks/Legacy/Precon_Pact_with_Nephandi_SP.txt	44530
+plugins/vtes/decks/Legacy/Precon_Parliament_of_Shadows_SP.txt	https://lackey.krcg.org/decks/Legacy/Precon_Parliament_of_Shadows_SP.txt	58348
+plugins/vtes/decks/Legacy/Precon_Ravnos_FN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Ravnos_FN.txt	98941
+plugins/vtes/decks/Legacy/Precon_Ravnos_LotN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Ravnos_LotN.txt	56513
+plugins/vtes/decks/Legacy/Precon_Reign_of_Stanislava.txt	https://lackey.krcg.org/decks/Legacy/Precon_Reign_of_Stanislava.txt	64851
+plugins/vtes/decks/Legacy/Precon_Salubri&VentrueAnti_HttB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Salubri&VentrueAnti_HttB.txt	62429
+plugins/vtes/decks/Legacy/Precon_Samedi&Nosferatu_HttB.txt	https://lackey.krcg.org/decks/Legacy/Precon_Samedi&Nosferatu_HttB.txt	58266
+plugins/vtes/decks/Legacy/Precon_Setite_FN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Setite_FN.txt	95337
+plugins/vtes/decks/Legacy/Precon_Setite_LotN.txt	https://lackey.krcg.org/decks/Legacy/Precon_Setite_LotN.txt	66580
+plugins/vtes/decks/Legacy/Precon_Toreador_KoT.txt	https://lackey.krcg.org/decks/Legacy/Precon_Toreador_KoT.txt	50558
+plugins/vtes/decks/Legacy/Precon_TremereAnti_Third.txt	https://lackey.krcg.org/decks/Legacy/Precon_TremereAnti_Third.txt	64268
+plugins/vtes/decks/Legacy/Precon_Tzimisce_SW.txt	https://lackey.krcg.org/decks/Legacy/Precon_Tzimisce_SW.txt	97926
+plugins/vtes/decks/Legacy/Precon_Tzimisce_Third.txt	https://lackey.krcg.org/decks/Legacy/Precon_Tzimisce_Third.txt	70813
+plugins/vtes/decks/Legacy/Precon_VentrueAnti_SW.txt	https://lackey.krcg.org/decks/Legacy/Precon_VentrueAnti_SW.txt	110685
+plugins/vtes/decks/Legacy/Precon_Ventrue_KoT.txt	https://lackey.krcg.org/decks/Legacy/Precon_Ventrue_KoT.txt	56042
+plugins/vtes/decks/5E/Precon_BanuHaqim_V5.txt	https://lackey.krcg.org/decks/5E/Precon_BanuHaqim_V5.txt	46939
+plugins/vtes/decks/5E/Precon_Brujah_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Brujah_V5.txt	48551
+plugins/vtes/decks/5E/Precon_Gangrel_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Gangrel_V5.txt	50169
+plugins/vtes/decks/5E/Precon_Malkavian_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Malkavian_V5.txt	43110
+plugins/vtes/decks/5E/Precon_Ministry_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Ministry_V5.txt	52327
+plugins/vtes/decks/5E/Precon_Nosferatu_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Nosferatu_V5.txt	46315
+plugins/vtes/decks/5E/Precon_Toreador_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Toreador_V5.txt	45059
+plugins/vtes/decks/5E/Precon_Tremere_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Tremere_V5.txt	45201
+plugins/vtes/decks/5E/Precon_Ventrue_V5.txt	https://lackey.krcg.org/decks/5E/Precon_Ventrue_V5.txt	49904
+plugins/vtes/sets/allsets.txt	https://lackey.krcg.org/sets/allsets.txt	88024520
+plugins/vtes/sets/antipodean.txt	https://lackey.krcg.org/sets/antipodean.txt	713141
+plugins/vtes/sets/ascensionofcaine.txt	https://lackey.krcg.org/sets/ascensionofcaine.txt	113382
+plugins/vtes/sets/budapest2012.txt	https://lackey.krcg.org/sets/budapest2012.txt	66942
+plugins/vtes/sets/cultist.txt	https://lackey.krcg.org/sets/cultist.txt	645426
+plugins/vtes/sets/edenslegacy.txt	https://lackey.krcg.org/sets/edenslegacy.txt	91570
+plugins/vtes/sets/falloflondon.txt	https://lackey.krcg.org/sets/falloflondon.txt	117711
+plugins/vtes/sets/mythic.txt	https://lackey.krcg.org/sets/mythic.txt	209424
+plugins/vtes/sets/princeofhell.txt	https://lackey.krcg.org/sets/princeofhell.txt	1469685
+plugins/vtes/sets/ragnarokthefinalbattle.txt	https://lackey.krcg.org/sets/ragnarokthefinalbattle.txt	895650
+plugins/vtes/sets/redsign.txt	https://lackey.krcg.org/sets/redsign.txt	1266879
+plugins/vtes/sets/tokens.txt	https://lackey.krcg.org/sets/tokens.txt	473486
 fonts/Amaranth.ttf	https://lackey.krcg.org/fonts/Amaranth.ttf	571212
 fonts/Lato-Reg.ttf	https://lackey.krcg.org/fonts/Lato-Reg.ttf	1138266
-skins/default.txt	https://lackey.krcg.org/skins/default.txt	349928
-skins/default_white.txt	https://lackey.krcg.org/skins/default_white.txt	340397
-skins/vtes.txt	https://lackey.krcg.org/skins/vtes.txt	349928
-skins/vtes_texture.jpg	https://lackey.krcg.org/skins/vtes_texture.jpg	7493
+CardImageURLs:
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/agonisingfury.jpg	https://lackey.krcg.org/sets/setimages/general/agonisingfury.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/alanmeroni.jpg	https://lackey.krcg.org/sets/setimages/general/alanmeroni.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/allhighthe_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/allhighthe_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/alterself.jpg	https://lackey.krcg.org/sets/setimages/general/alterself.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/amuletoftheancients.jpg	https://lackey.krcg.org/sets/setimages/general/amuletoftheancients.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/anarchcounter.jpg	https://lackey.krcg.org/sets/setimages/general/anarchcounter.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/andrewstuart_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/andrewstuart_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/angelorossi.jpg	https://lackey.krcg.org/sets/setimages/general/angelorossi.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/ankhsensutekadv_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/ankhsensutekadv_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/aurelianarchambeau.jpg	https://lackey.krcg.org/sets/setimages/general/aurelianarchambeau.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/babayagatheironhag_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/babayagatheironhag_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/balefulbumsrush.jpg	https://lackey.krcg.org/sets/setimages/general/balefulbumsrush.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/bindingoath.jpg	https://lackey.krcg.org/sets/setimages/general/bindingoath.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/blackhandcounter.jpg	https://lackey.krcg.org/sets/setimages/general/blackhandcounter.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/brunhildeadv_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/brunhildeadv_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/budacastle.jpg	https://lackey.krcg.org/sets/setimages/general/budacastle.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/bulscu_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/bulscu_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/caern.jpg	https://lackey.krcg.org/sets/setimages/general/caern.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/callofthenephandi.jpg	https://lackey.krcg.org/sets/setimages/general/callofthenephandi.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/capuchinthe_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/capuchinthe_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cardbackcrypt.jpg	https://lackey.krcg.org/sets/setimages/general/cardbackcrypt.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cardbackcultist.jpg	https://lackey.krcg.org/sets/setimages/general/cardbackcultist.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cardbackcultistcrypt.jpg	https://lackey.krcg.org/sets/setimages/general/cardbackcultistcrypt.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cardbacknergal.jpg	https://lackey.krcg.org/sets/setimages/general/cardbacknergal.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cardbacknergalcrypt.jpg	https://lackey.krcg.org/sets/setimages/general/cardbacknergalcrypt.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cardbacktoken.jpg	https://lackey.krcg.org/sets/setimages/general/cardbacktoken.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/carlagrimsson.jpg	https://lackey.krcg.org/sets/setimages/general/carlagrimsson.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cecilialyons.jpg	https://lackey.krcg.org/sets/setimages/general/cecilialyons.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/colocation.jpg	https://lackey.krcg.org/sets/setimages/general/colocation.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/corpsecray.jpg	https://lackey.krcg.org/sets/setimages/general/corpsecray.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/corruptdetective.jpg	https://lackey.krcg.org/sets/setimages/general/corruptdetective.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/corruptioncounter.jpg	https://lackey.krcg.org/sets/setimages/general/corruptioncounter.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/countermagick.jpg	https://lackey.krcg.org/sets/setimages/general/countermagick.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/craigjohnston.jpg	https://lackey.krcg.org/sets/setimages/general/craigjohnston.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultists44magnum.jpg	https://lackey.krcg.org/sets/setimages/general/cultists44magnum.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsaireofelation.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsaireofelation.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsarmsdealer.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsarmsdealer.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsassaultrifle.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsassaultrifle.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsatonement.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsatonement.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsawe.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsawe.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsbloodfeast.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsbloodfeast.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsbomb.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsbomb.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistscombatshotgun.jpg	https://lackey.krcg.org/sets/setimages/general/cultistscombatshotgun.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistscreationrites.jpg	https://lackey.krcg.org/sets/setimages/general/cultistscreationrites.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsenchantkindred.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsenchantkindred.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsenhancedsenses.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsenhancedsenses.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsentrancement.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsentrancement.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsesgrima.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsesgrima.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsflamethrower.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsflamethrower.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsguardianangel.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsguardianangel.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsmindrape.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsmindrape.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsprecognition.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsprecognition.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsprotractedinvestment.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsprotractedinvestment.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistsrevelations.jpg	https://lackey.krcg.org/sets/setimages/general/cultistsrevelations.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultistssurvivalist.jpg	https://lackey.krcg.org/sets/setimages/general/cultistssurvivalist.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/cultiststributetothemaster.jpg	https://lackey.krcg.org/sets/setimages/general/cultiststributetothemaster.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/demoniccondemnationbetrayed.jpg	https://lackey.krcg.org/sets/setimages/general/demoniccondemnationbetrayed.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/demoniccondemnationdoomed.jpg	https://lackey.krcg.org/sets/setimages/general/demoniccondemnationdoomed.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/demoniccondemnationlanguid.jpg	https://lackey.krcg.org/sets/setimages/general/demoniccondemnationlanguid.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/demoniccondemnationmute.jpg	https://lackey.krcg.org/sets/setimages/general/demoniccondemnationmute.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/demonicconfusionoftheeye.jpg	https://lackey.krcg.org/sets/setimages/general/demonicconfusionoftheeye.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/demonicfreakdrive.jpg	https://lackey.krcg.org/sets/setimages/general/demonicfreakdrive.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/demonicheraldoftopheth.jpg	https://lackey.krcg.org/sets/setimages/general/demonicheraldoftopheth.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/demonicminiontap.jpg	https://lackey.krcg.org/sets/setimages/general/demonicminiontap.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/demonicpulseofthecanaille.jpg	https://lackey.krcg.org/sets/setimages/general/demonicpulseofthecanaille.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/demonictrap.jpg	https://lackey.krcg.org/sets/setimages/general/demonictrap.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/distorttime.jpg	https://lackey.krcg.org/sets/setimages/general/distorttime.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/domainauckland.jpg	https://lackey.krcg.org/sets/setimages/general/domainauckland.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/domainbrisbane.jpg	https://lackey.krcg.org/sets/setimages/general/domainbrisbane.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/domaincanberra.jpg	https://lackey.krcg.org/sets/setimages/general/domaincanberra.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/domainmelbourne.jpg	https://lackey.krcg.org/sets/setimages/general/domainmelbourne.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/domainsydney.jpg	https://lackey.krcg.org/sets/setimages/general/domainsydney.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/domaintownsville.jpg	https://lackey.krcg.org/sets/setimages/general/domaintownsville.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/domainwellington.jpg	https://lackey.krcg.org/sets/setimages/general/domainwellington.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/draconthe_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/draconthe_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/dualityadv_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/dualityadv_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/edge.png	https://lackey.krcg.org/sets/setimages/general/edge.png
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/edge2.png	https://lackey.krcg.org/sets/setimages/general/edge2.png
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/edgecard.jpg	https://lackey.krcg.org/sets/setimages/general/edgecard.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/edwardgrey.jpg	https://lackey.krcg.org/sets/setimages/general/edwardgrey.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/egyptiandagger.jpg	https://lackey.krcg.org/sets/setimages/general/egyptiandagger.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/emmadodd.jpg	https://lackey.krcg.org/sets/setimages/general/emmadodd.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/estobaldumas.jpg	https://lackey.krcg.org/sets/setimages/general/estobaldumas.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/exeterchantrylondon.jpg	https://lackey.krcg.org/sets/setimages/general/exeterchantrylondon.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/exlibrisnecro.jpg	https://lackey.krcg.org/sets/setimages/general/exlibrisnecro.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/fangjumper.jpg	https://lackey.krcg.org/sets/setimages/general/fangjumper.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/floatingonethe.jpg	https://lackey.krcg.org/sets/setimages/general/floatingonethe.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/formofdemoniccorruption.jpg	https://lackey.krcg.org/sets/setimages/general/formofdemoniccorruption.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/frateranson.jpg	https://lackey.krcg.org/sets/setimages/general/frateranson.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/garmrhoundofhel.jpg	https://lackey.krcg.org/sets/setimages/general/garmrhoundofhel.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/gerihungrywolf.jpg	https://lackey.krcg.org/sets/setimages/general/gerihungrywolf.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/gjallahornhornofheimdall.jpg	https://lackey.krcg.org/sets/setimages/general/gjallahornhornofheimdall.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/glasshousemountains.jpg	https://lackey.krcg.org/sets/setimages/general/glasshousemountains.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/golgolfangsfirst.jpg	https://lackey.krcg.org/sets/setimages/general/golgolfangsfirst.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/greatercatatonicfear.jpg	https://lackey.krcg.org/sets/setimages/general/greatercatatonicfear.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/greaterfacelessnight.jpg	https://lackey.krcg.org/sets/setimages/general/greaterfacelessnight.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/greaterfearofthevoidbelow.jpg	https://lackey.krcg.org/sets/setimages/general/greaterfearofthevoidbelow.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/greaterhavenuncovered.jpg	https://lackey.krcg.org/sets/setimages/general/greaterhavenuncovered.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/greaterrotschreck.jpg	https://lackey.krcg.org/sets/setimages/general/greaterrotschreck.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/greatertelepathiccounter.jpg	https://lackey.krcg.org/sets/setimages/general/greatertelepathiccounter.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/greatertelepathicmisdirection.jpg	https://lackey.krcg.org/sets/setimages/general/greatertelepathicmisdirection.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/greaterundeadpersistence.jpg	https://lackey.krcg.org/sets/setimages/general/greaterundeadpersistence.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/greaterwakewitheveningsfreshness.jpg	https://lackey.krcg.org/sets/setimages/general/greaterwakewitheveningsfreshness.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/gungnirodin'sspear.jpg	https://lackey.krcg.org/sets/setimages/general/gungnirodin'sspear.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/guntheroddeye.jpg	https://lackey.krcg.org/sets/setimages/general/guntheroddeye.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/hatimoonchaser.jpg	https://lackey.krcg.org/sets/setimages/general/hatimoonchaser.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/healself.jpg	https://lackey.krcg.org/sets/setimages/general/healself.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/helmistressoftheunderworld.jpg	https://lackey.krcg.org/sets/setimages/general/helmistressoftheunderworld.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/huginnraven.jpg	https://lackey.krcg.org/sets/setimages/general/huginnraven.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/imbuedrules1.jpg	https://lackey.krcg.org/sets/setimages/general/imbuedrules1.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/imbuedrules2.jpg	https://lackey.krcg.org/sets/setimages/general/imbuedrules2.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/imbuedrules3.jpg	https://lackey.krcg.org/sets/setimages/general/imbuedrules3.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/imbuedrules4.jpg	https://lackey.krcg.org/sets/setimages/general/imbuedrules4.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/imbuedrules5.jpg	https://lackey.krcg.org/sets/setimages/general/imbuedrules5.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/infernalconflagration.jpg	https://lackey.krcg.org/sets/setimages/general/infernalconflagration.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/infernalcontagion.jpg	https://lackey.krcg.org/sets/setimages/general/infernalcontagion.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/infernalecstasy.jpg	https://lackey.krcg.org/sets/setimages/general/infernalecstasy.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/infernalperfectionist.jpg	https://lackey.krcg.org/sets/setimages/general/infernalperfectionist.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/infernalpsychomachia.jpg	https://lackey.krcg.org/sets/setimages/general/infernalpsychomachia.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/infernalregeneration.jpg	https://lackey.krcg.org/sets/setimages/general/infernalregeneration.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/infernalruinsofcharizel.jpg	https://lackey.krcg.org/sets/setimages/general/infernalruinsofcharizel.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/inferno.jpg	https://lackey.krcg.org/sets/setimages/general/inferno.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/irvingsloan.jpg	https://lackey.krcg.org/sets/setimages/general/irvingsloan.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/jensmith.jpg	https://lackey.krcg.org/sets/setimages/general/jensmith.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/johannkurtzweil.jpg	https://lackey.krcg.org/sets/setimages/general/johannkurtzweil.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/jormungandrmidgardserpent.jpg	https://lackey.krcg.org/sets/setimages/general/jormungandrmidgardserpent.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/josiahlamb.jpg	https://lackey.krcg.org/sets/setimages/general/josiahlamb.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/ke.jpg	https://lackey.krcg.org/sets/setimages/general/ke.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/kinfolkcontact.jpg	https://lackey.krcg.org/sets/setimages/general/kinfolkcontact.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/kingofthebeasts.jpg	https://lackey.krcg.org/sets/setimages/general/kingofthebeasts.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/kraken.jpg	https://lackey.krcg.org/sets/setimages/general/kraken.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/kristofftheblack.jpg	https://lackey.krcg.org/sets/setimages/general/kristofftheblack.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/laevateinnswordoffreya.jpg	https://lackey.krcg.org/sets/setimages/general/laevateinnswordoffreya.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/liaisonmarker.jpg	https://lackey.krcg.org/sets/setimages/general/liaisonmarker.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/locateweakness.jpg	https://lackey.krcg.org/sets/setimages/general/locateweakness.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/lokitrickstergod.jpg	https://lackey.krcg.org/sets/setimages/general/lokitrickstergod.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/lorddom.jpg	https://lackey.krcg.org/sets/setimages/general/lorddom.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/lunasarmour.jpg	https://lackey.krcg.org/sets/setimages/general/lunasarmour.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/lunasblessing.jpg	https://lackey.krcg.org/sets/setimages/general/lunasblessing.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/manafromheaven.jpg	https://lackey.krcg.org/sets/setimages/general/manafromheaven.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/marcusdeallegresse.jpg	https://lackey.krcg.org/sets/setimages/general/marcusdeallegresse.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/masterofcorrespondence.jpg	https://lackey.krcg.org/sets/setimages/general/masterofcorrespondence.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/masterofentropy.jpg	https://lackey.krcg.org/sets/setimages/general/masterofentropy.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/masterofforces.jpg	https://lackey.krcg.org/sets/setimages/general/masterofforces.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/masteroflife.jpg	https://lackey.krcg.org/sets/setimages/general/masteroflife.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/masterofmatter.jpg	https://lackey.krcg.org/sets/setimages/general/masterofmatter.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/masterofmind.jpg	https://lackey.krcg.org/sets/setimages/general/masterofmind.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/masterofprime.jpg	https://lackey.krcg.org/sets/setimages/general/masterofprime.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/masterofspirit.jpg	https://lackey.krcg.org/sets/setimages/general/masterofspirit.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/masteroftime.jpg	https://lackey.krcg.org/sets/setimages/general/masteroftime.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/melissachong.jpg	https://lackey.krcg.org/sets/setimages/general/melissachong.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/mithras_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/mithras_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/mjolnirthorshammer.jpg	https://lackey.krcg.org/sets/setimages/general/mjolnirthorshammer.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/montano_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/montano_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/motherstouch.jpg	https://lackey.krcg.org/sets/setimages/general/motherstouch.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/motivatedbygehenna.jpg	https://lackey.krcg.org/sets/setimages/general/motivatedbygehenna.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/motivatedbyjyhad.jpg	https://lackey.krcg.org/sets/setimages/general/motivatedbyjyhad.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/motivatedbyknowledge.jpg	https://lackey.krcg.org/sets/setimages/general/motivatedbyknowledge.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/motivatedbysecrecy.jpg	https://lackey.krcg.org/sets/setimages/general/motivatedbysecrecy.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/muninnraven.jpg	https://lackey.krcg.org/sets/setimages/general/muninnraven.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/natachadimitrivaradocara_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/natachadimitrivaradocara_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/nathanielgalpin.jpg	https://lackey.krcg.org/sets/setimages/general/nathanielgalpin.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/nefertitiadv_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/nefertitiadv_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/nergalcallsthegreatbeast.jpg	https://lackey.krcg.org/sets/setimages/general/nergalcallsthegreatbeast.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/nergalignoresthesearingflames.jpg	https://lackey.krcg.org/sets/setimages/general/nergalignoresthesearingflames.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/nergalprinceofhell.jpg	https://lackey.krcg.org/sets/setimages/general/nergalprinceofhell.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/nergalsblooddoll.jpg	https://lackey.krcg.org/sets/setimages/general/nergalsblooddoll.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/nergalsconcordance.jpg	https://lackey.krcg.org/sets/setimages/general/nergalsconcordance.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/nergalsfragmentofthebookofnod.jpg	https://lackey.krcg.org/sets/setimages/general/nergalsfragmentofthebookofnod.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/nergalsgiantsblood.jpg	https://lackey.krcg.org/sets/setimages/general/nergalsgiantsblood.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/nidhoggthehungryworm.jpg	https://lackey.krcg.org/sets/setimages/general/nidhoggthehungryworm.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/operationantigencountdown.jpg	https://lackey.krcg.org/sets/setimages/general/operationantigencountdown.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/parliamenthousecanberra.jpg	https://lackey.krcg.org/sets/setimages/general/parliamenthousecanberra.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/percival_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/percival_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/philippedemarseillesadv_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/philippedemarseillesadv_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/phrygiancap.jpg	https://lackey.krcg.org/sets/setimages/general/phrygiancap.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/pierredecalice.jpg	https://lackey.krcg.org/sets/setimages/general/pierredecalice.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/probethoughts.jpg	https://lackey.krcg.org/sets/setimages/general/probethoughts.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/prophail.jpg	https://lackey.krcg.org/sets/setimages/general/prophail.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/quintessencecounter.jpg	https://lackey.krcg.org/sets/setimages/general/quintessencecounter.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/razorclaws.jpg	https://lackey.krcg.org/sets/setimages/general/razorclaws.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/rebeccamitsotakai.jpg	https://lackey.krcg.org/sets/setimages/general/rebeccamitsotakai.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/recklessabandonment.jpg	https://lackey.krcg.org/sets/setimages/general/recklessabandonment.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/redsignthe.jpg	https://lackey.krcg.org/sets/setimages/general/redsignthe.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/rogerdaly.jpg	https://lackey.krcg.org/sets/setimages/general/rogerdaly.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/rubyring.jpg	https://lackey.krcg.org/sets/setimages/general/rubyring.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/rutoradv_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/rutoradv_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/rutorsinfernalhand.jpg	https://lackey.krcg.org/sets/setimages/general/rutorsinfernalhand.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/saintthe.jpg	https://lackey.krcg.org/sets/setimages/general/saintthe.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/scarthroatleechkiller.jpg	https://lackey.krcg.org/sets/setimages/general/scarthroatleechkiller.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/sealofmithras.jpg	https://lackey.krcg.org/sets/setimages/general/sealofmithras.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/seating1.jpg	https://lackey.krcg.org/sets/setimages/general/seating1.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/seating2.jpg	https://lackey.krcg.org/sets/setimages/general/seating2.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/seating3.jpg	https://lackey.krcg.org/sets/setimages/general/seating3.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/seating4.jpg	https://lackey.krcg.org/sets/setimages/general/seating4.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/seating5.jpg	https://lackey.krcg.org/sets/setimages/general/seating5.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/senseconnection.jpg	https://lackey.krcg.org/sets/setimages/general/senseconnection.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/sensetheinfernalsin.jpg	https://lackey.krcg.org/sets/setimages/general/sensetheinfernalsin.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/sensewyrm.jpg	https://lackey.krcg.org/sets/setimages/general/sensewyrm.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/shadethe.jpg	https://lackey.krcg.org/sets/setimages/general/shadethe.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/skinoftheinfernaladder.jpg	https://lackey.krcg.org/sets/setimages/general/skinoftheinfernaladder.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/skollsunchaser.jpg	https://lackey.krcg.org/sets/setimages/general/skollsunchaser.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/sleipnirgreatestofsteeds.jpg	https://lackey.krcg.org/sets/setimages/general/sleipnirgreatestofsteeds.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/sonofmoonlight.jpg	https://lackey.krcg.org/sets/setimages/general/sonofmoonlight.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/sophiachevallier.jpg	https://lackey.krcg.org/sets/setimages/general/sophiachevallier.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/steppingsideways.jpg	https://lackey.krcg.org/sets/setimages/general/steppingsideways.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/stepsideways.jpg	https://lackey.krcg.org/sets/setimages/general/stepsideways.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/strawintogold.jpg	https://lackey.krcg.org/sets/setimages/general/strawintogold.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/stuarttechnobabblejaques.jpg	https://lackey.krcg.org/sets/setimages/general/stuarttechnobabblejaques.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/sutrwarriorgiant.jpg	https://lackey.krcg.org/sets/setimages/general/sutrwarriorgiant.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/svalinnshieldofthesun.jpg	https://lackey.krcg.org/sets/setimages/general/svalinnshieldofthesun.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/swallowedbythedemonicnight.jpg	https://lackey.krcg.org/sets/setimages/general/swallowedbythedemonicnight.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/teotihuacan.jpg	https://lackey.krcg.org/sets/setimages/general/teotihuacan.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/themistoclesadv_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/themistoclesadv_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/thralltotheblood.jpg	https://lackey.krcg.org/sets/setimages/general/thralltotheblood.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/tonywedd.jpg	https://lackey.krcg.org/sets/setimages/general/tonywedd.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/tremere_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/tremere_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/underworldenforcer.jpg	https://lackey.krcg.org/sets/setimages/general/underworldenforcer.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/valkyrie_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/valkyrie_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/virustowyrm.jpg	https://lackey.krcg.org/sets/setimages/general/virustowyrm.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/visageofcaine.jpg	https://lackey.krcg.org/sets/setimages/general/visageofcaine.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/vladtepesdracula_storyline.jpg	https://lackey.krcg.org/sets/setimages/general/vladtepesdracula_storyline.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/walkofinfernalflame.jpg	https://lackey.krcg.org/sets/setimages/general/walkofinfernalflame.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/windycitycoffeecart.jpg	https://lackey.krcg.org/sets/setimages/general/windycitycoffeecart.jpg
+general/cardback.jpg	https://lackey.krcg.org/cardback.jpg
+general/spawned.jpg	https://lackey.krcg.org/spawned.jpg
+general/yellowsignthe.jpg	https://lackey.krcg.org/sets/setimages/general/yellowsignthe.jpg
 CardGeneralURLs:
 https://static.krcg.org/card/

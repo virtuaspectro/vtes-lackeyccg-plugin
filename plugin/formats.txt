@@ -1,145 +1,90 @@
 <formatdefinitions>
  <format>
-    <label>Library</label>
-     <set>25th</set>
-     <set>AH</set>
-     <set>Anarchs</set>
-     <set>Anthology</set>
-     <set>AU</set>
-     <set>BCP</set>
-     <set>BH</set>
-     <set>BL</set>
-     <set>BLS</set>
-     <set>CE</set>
-     <set>DM</set>
-     <set>DS</set>
-     <set>EK</set>
-     <set>FB</set>
-     <set>FoL</set>
-     <set>FN</set>
-     <set>Gehenna</set>
-     <set>HttB</set>
-     <set>Jyhad</set>
-     <set>KMW</set>
-     <set>KoT</set>
-     <set>LK</set>
-     <set>LoB</set>
-     <set>LotN</set>
-     <set>NoR</set>
-     <set>Promo</set>
-     <set>Sabbat</set>
-     <set>SoC</set>
-     <set>SP</set>
-     <set>SW</set>
-     <set>Tenth</set>
-     <set>Third</set>
-     <set>TR</set>
-     <set>TU</set>
-     <set>V5</set>
-     <set>VTES</set>
+    <label>Legacy</label>
+    <set>25th</set>
+    <set>AH</set>
+    <set>AU</set>
+    <set>Anarchs</set>
+    <set>Anthology</set>
+    <set>BH</set>
+    <set>BL</set>
+    <set>BSC</set>
+    <set>CE</set>
+    <set>DM</set>
+    <set>DS</set>
+    <set>EK</set>
+    <set>FB</set>
+    <set>FN</set>
+    <set>FoL</set>
+    <set>Gehenna</set>
+    <set>HttB</set>
+    <set>Jyhad</set>
+    <set>KMW</set>
+    <set>KoT</set>
+    <set>LK</set>
+    <set>LoB</set>
+    <set>LotN</set>
+    <set>NB</set>
+    <set>NoR</set>
     <set>POD</set>
+    <set>Promo</set>
+    <set>SP</set>
+    <set>SW</set>
+    <set>Sabbat</set>
+    <set>SoC</set>
+    <set>TR</set>
+    <set>TU</set>
+    <set>Tenth</set>
+    <set>Third</set>
+    <set>V5</set>
+    <set>V5A</set>
+    <set>VTES</set>
  </format>
  <format>
-    <label>Crypt</label>
-     <set>25thM</set>
-     <set>AHM</set>
-     <set>AnarchsM</set>
-     <set>AnthologyM</set>
-     <set>AUM</set>
-     <set>BCPM</set>
-     <set>BHM</set>
-     <set>BLM</set>
-     <set>BLSM</set>
-     <set>BSCM</set>
-     <set>CEM</set>
-     <set>DMM</set>
-     <set>DSM</set>
-     <set>EKM</set>
-     <set>FBM</set>
-     <set>FoLM</set>
-     <set>FNM</set>
-     <set>GehennaM</set>
-     <set>HttBM</set>
-     <set>JyhadM</set>
-     <set>KMWM</set>
-     <set>KoTM</set>
-     <set>LKM</set>
-     <set>LoBM</set>
-     <set>LotNM</set>
-     <set>NoRM</set>
-     <set>PromoM</set>
-     <set>SabbatM</set>
-     <set>SoCM</set>
-     <set>SPM</set>
-     <set>SWM</set>
-     <set>TenthM</set>
-     <set>ThirdM</set>
-     <set>TRM</set>
-     <set>TUM</set>
-     <set>V5M</set>
-     <set>PODM</set>
+    <label>V5</label>
+     <set>V5</set>
+     <set>NB</set>
+     <set>V5A</set>
  </format>
  <format>
-    <label>Ascension of Caine Storyline</label>
+    <label>Storyline: Ascension of Caine</label>
      <set>Ascension</set>
-     <set>AscensionM</set>
  </format>
  <format>
-    <label>Antipodean Awakening Storyline</label>
+    <label>Storyline: Antipodean Awakening</label>
      <set>Antipodean</set>
-     <set>AntipodeanM</set>
  </format>
  <format>
-    <label>Budapest 2012 Storyline</label>
+    <label>Storyline: Budapest 2012</label>
      <set>Budapest2012</set>
-     <set>Budapest2012M</set>
  </format>
  <format>
-    <label>Eden's Legacy Storyline</label>
+    <label>Storyline: Eden's Legacy</label>
      <set>EdensLegacy</set>
  </format>
  <format>
-    <label>Fall Of London Storyline</label>
+    <label>Storyline: Fall Of London</label>
+     <set>FoLStoryline</set>
      <set>FoL</set>
-     <set>FolM</set>
  </format>
  <format>
-    <label>Milleniumn Culitists</label>
-     <set>Cultist</set>
-     <set>CultistM</set>
+    <label>Storyline: Milleniumn Culitists</label>
+     <set>MilleniumCultist</set>
  </format>
  <format>
-     <label>Mythic Vampires</label>
+     <label>Storyline: Mythic Vampires</label>
      <set>Mythic</set>
  </format>
  <format>
-    <label>Prince of Hell</label>
-     <set>PrinceofHell</set>
-     <set>PrinceofHellM</set>
+    <label>Storyline: Prince of Hell</label>
+     <set>PrinceOfHell</set>
  </format>
  <format>
-    <label>Ragnarok, the Final Battle</label>
+    <label>Storyline: Ragnarok, the Final Battle</label>
      <set>Ragnarok</set>
-     <set>RagnarokM</set>
  </format>
  <format>
-    <label>Red Sign Storyline</label>
+    <label>Storyline: The Red Sign</label>
      <set>RedSign</set>
-     <set>RedSignM</set>
- </format>
- <format>
-    <label>Banned</label>
-     <set>BHB</set>
-     <set>BHBM</set>
-     <set>JyhadB</set>
-     <set>NoRB</set>
-     <set>CEB</set>
-     <set>BLSB</set>
-     <set>DSB</set>
-     <set>DSBM</set>
-     <set>AHB</set>
-     <set>VTESB</set>
-     <set>PromoB</set>
-     <set>KoTB</set>
  </format>
 </formatdefinitions>
