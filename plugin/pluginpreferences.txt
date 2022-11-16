@@ -1,0 +1,76 @@
+<pluginpreferences>
+
+<lastversionupdate>221116</lastversionupdate>
+<counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
+<counterstyleimagesizeimagesonly>15</counterstyleimagesizeimagesonly>
+<recentskins>default</recentskins>
+<recenttablebackgrounds>vtesbackground.jpg</recenttablebackgrounds>
+<recentzonebackgrounds>vtes_zonebackground.jpg</recentzonebackgrounds>
+<canned>TOSS                    (flipcoin.wav)</canned>
+<canned>Bleed                   (bleed.wav)</canned>
+<canned>Hunt                    (hunt.wav)</canned>
+<canned>Diablerie               (diablerie.wav)</canned>
+<canned>Rescue torpor           (rescue-from-torpor.wav)</canned>
+<canned>Card Special Text       (card-special-text.wav)</canned>
+<canned>No Block Attempt        (no-block-attempt.wav)</canned>
+<canned>Try to Block            (try-to-block.wav)</canned>
+<canned>No Pre-Maneuver         (no-pre-maneuver.wav)</canned>
+<canned>No Maneuver             (no-maneuver.wav)</canned>
+<canned>Maneuver                (maneuver.wav)</canned>
+<canned>Hand Strike             (hand-strike.wav)</canned>
+<canned>No Press                (no-press.wav)</canned>
+<canned>Press                   (press.wav)</canned>
+<canned>/-1</canned>
+<canned>/-2</canned>
+<canned>/-4</canned>
+<canned>/+1</canned>
+<canned>/+2</canned>
+<canned>/+3</canned>
+<fontkind0pos0>Amaranth.ttf</fontkind0pos0>
+<fontkind0pos1>Lato-Reg.ttf</fontkind0pos1>
+<fontkind0pos2>times.ttf</fontkind0pos2>
+<fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
+<fontkind1pos1>Amaranth.ttf</fontkind1pos1>
+<fontkind1pos2>times.ttf</fontkind1pos2>
+<fontkind2pos0>Lato-Reg.ttf</fontkind2pos0>
+<fontkind2pos1>Amaranth.ttf</fontkind2pos1>
+<fontkind2pos2>times.ttf</fontkind2pos2>
+<fontkind3pos0>Amaranth.ttf</fontkind3pos0>
+<fontkind3pos1>Lato-Reg.ttf</fontkind3pos1>
+<fontkind3pos2>times.ttf</fontkind3pos2>
+<fontsize0>14</fontsize0>
+<fontsize1>12</fontsize1>
+<fontsize2>12</fontsize2>
+<fontsize3>20</fontsize3>
+<bindingmain0>CTRL+h</bindingmain0>
+<bindingmain1>CTRL+j</bindingmain1>
+<bindingmain4>CTRL+n</bindingmain4>
+<bindingmain5>CTRL+s</bindingmain5>
+<bindingmain6>CTRL+l</bindingmain6>
+<bindingmain9>CTRL+f</bindingmain9>
+<bindingmain15>CTRL+SHIFT+s</bindingmain15>
+<bindinggeneral0>CTRL+u</bindinggeneral0>
+<bindinggeneral1>CTRL+d</bindinggeneral1>
+<bindinggeneral3>CTRL+r</bindinggeneral3>
+<bindinggeneral6>CTRL+m</bindinggeneral6>
+<bindinggeneral8>CTRL+RIGHT</bindinggeneral8>
+<bindingcard2>CTRL+EQUALS</bindingcard2>
+<bindingcard3>CTRL+MINUS</bindingcard3>
+<bindingcard4>CTRL+ALT+EQUALS</bindingcard4>
+<bindingcard5>CTRL+ALT+MINUS</bindingcard5>
+<bindingcard6>CTRL+SHIFT+EQUALS</bindingcard6>
+<bindingcard7>CTRL+SHIFT+MINUS</bindingcard7>
+<bindingcanned14>CTRL+1</bindingcanned14>
+<bindingcanned15>CTRL+2</bindingcanned15>
+<bindingcanned16>CTRL+4</bindingcanned16>
+<bindingcanned17>CTRL+SHIFT+1</bindingcanned17>
+<bindingcanned18>CTRL+SHIFT+2</bindingcanned18>
+<bindingcanned19>CTRL+SHIFT+3</bindingcanned19>
+<recentformat>-1</recentformat>
+<filterkeystroke>1</filterkeystroke>
+<scalefactor>1.000000</scalefactor>
+<zoomfactor>1.000000</zoomfactor>
+<quickzoom>4.000000</quickzoom>
+<isdownloadallmissing>1</isdownloadallmissing>
+
+</pluginpreferences>

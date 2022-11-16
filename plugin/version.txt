@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>221116</lastupdateYYMMDD>
+ <quality>HIGH</quality>
+ <versionurl>https://lackey.krcg.org/version.txt</versionurl>
+ <updateurl>https://lackey.krcg.org/updatelist.txt</updateurl>
+ <message>VtES updated to version 2022-11-16</message>
+</version>

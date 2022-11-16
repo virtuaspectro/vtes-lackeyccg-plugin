@@ -1,0 +1,7 @@
+<uninstall>
+<dateYYMMDD>221116</dateYYMMDD>
+<removepath>rules.txt</removepath>
+<removepath>setlist.txt</removepath>
+<removepath>changelog.txt</removepath>
+<removepath>defaultchat.txt</removepath>
+</uninstall>

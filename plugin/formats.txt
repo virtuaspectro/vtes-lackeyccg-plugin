@@ -1,0 +1,90 @@
+<formatdefinitions>
+ <format>
+    <label>Legacy</label>
+    <set>25th</set>
+    <set>AH</set>
+    <set>AU</set>
+    <set>Anarchs</set>
+    <set>Anthology</set>
+    <set>BH</set>
+    <set>BL</set>
+    <set>BSC</set>
+    <set>CE</set>
+    <set>DM</set>
+    <set>DS</set>
+    <set>EK</set>
+    <set>FB</set>
+    <set>FN</set>
+    <set>FoL</set>
+    <set>Gehenna</set>
+    <set>HttB</set>
+    <set>Jyhad</set>
+    <set>KMW</set>
+    <set>KoT</set>
+    <set>LK</set>
+    <set>LoB</set>
+    <set>LotN</set>
+    <set>NB</set>
+    <set>NoR</set>
+    <set>POD</set>
+    <set>Promo</set>
+    <set>SP</set>
+    <set>SW</set>
+    <set>Sabbat</set>
+    <set>SoC</set>
+    <set>TR</set>
+    <set>TU</set>
+    <set>Tenth</set>
+    <set>Third</set>
+    <set>V5</set>
+    <set>V5A</set>
+    <set>VTES</set>
+ </format>
+ <format>
+    <label>V5</label>
+     <set>V5</set>
+     <set>NB</set>
+     <set>V5A</set>
+ </format>
+ <format>
+    <label>Storyline: Ascension of Caine</label>
+     <set>Ascension</set>
+ </format>
+ <format>
+    <label>Storyline: Antipodean Awakening</label>
+     <set>Antipodean</set>
+ </format>
+ <format>
+    <label>Storyline: Budapest 2012</label>
+     <set>Budapest2012</set>
+ </format>
+ <format>
+    <label>Storyline: Eden's Legacy</label>
+     <set>EdensLegacy</set>
+ </format>
+ <format>
+    <label>Storyline: Fall Of London</label>
+     <set>FoLStoryline</set>
+     <set>FoL</set>
+ </format>
+ <format>
+    <label>Storyline: Milleniumn Culitists</label>
+     <set>MilleniumCultist</set>
+ </format>
+ <format>
+     <label>Storyline: Mythic Vampires</label>
+     <set>Mythic</set>
+ </format>
+ <format>
+    <label>Storyline: Prince of Hell</label>
+     <set>PrinceOfHell</set>
+ </format>
+ <format>
+    <label>Storyline: Ragnarok, the Final Battle</label>
+     <set>Ragnarok</set>
+ </format>
+ <format>
+    <label>Storyline: The Red Sign</label>
+     <set>RedSign</set>
+ </format>
+</formatdefinitions>

@@ -1,0 +1,35 @@
+4	Haqim's Law: Retribution
+1	Market Square
+4	Priority Contract
+1	Tension in the Ranks
+1	Underworld Hunting Ground
+4	Villein
+1	Biothaumaturgic Experiment
+2	Fleetness
+4	Hunter's Mark
+1	Rutor's Hand
+2	Parity Shift
+1	Mr. Winthrop
+2	Resist Earth's Grasp
+6	Swallowed by the Night
+2	Blood Rage
+5	Flash
+10	Hunger of Marduk
+4	Pursuit
+4	Quickness
+2	Rego Motum
+2	Soul Burn
+2	Walk of Flame
+4	On the Qui Vive
+8	Second Tradition: Domain
+Crypt:
+1	Asmin Kobane
+1	Bijou
+1	Farah Sarroub
+1	Greg Mazouni
+1	Kalinda
+1	Kasim Bayar
+2	Kassandra Tassaki
+1	Khadija Al-Kindi
+1	Nayarana
+2	Warmaksan

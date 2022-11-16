@@ -1,0 +1,39 @@
+1	Anarch Railroad
+1	Backways
+4	Blood Doll
+1	Ecoterrorists
+1	Fame
+1	Haven Uncovered
+1	Rack, The
+1	Smiling Jack, The Anarch
+1	Zoo Hunting Ground
+2	Constant Revolution
+6	Deep Song
+1	Rewilding
+4	Thing
+1	Double Deuce
+2	Murder of Crows
+2	Raven Spy
+4	Earth Control
+2	Form of the Bat
+2	Bear's Skin
+6	Carrion Crows
+2	Claws of the Dead
+2	Form of the Wolf
+4	Hidden Strength
+4	Cats' Guidance
+6	Deep Ecology
+6	Eyes of the Wild
+5	On the Qui Vive
+4	Protection Racket
+Crypt:
+1	Crow
+1	Dario Ziggler
+1	Hanna Nokelainen
+1	Indira
+1	Kamile Paukstys
+2	Martina Srnankova
+2	Massimiliano
+1	Nathan Turner
+1	Ruslan Fedorenko
+1	Joaquin de Cadiz

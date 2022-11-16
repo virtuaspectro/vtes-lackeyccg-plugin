@@ -1,0 +1,38 @@
+1	Anarch Free Press, The
+4	Blood Doll
+1	Carfax Abbey
+1	Carver's Meat Packing and Storage
+1	Fame
+1	Frontal Assault
+1	Guardian Angel
+1	Haven Uncovered
+1	Warzone Hunting Ground
+6	Enchant Kindred
+2	Heroic Might
+6	Line Brawl
+2	Show of Force
+1	47th Street Royals
+2	Monkey Wrench
+4	Dust Up
+6	Immortal Grapple
+2	Pursuit
+5	Quickness
+4	Roundhouse
+4	Slam
+4	Taste of Vitae
+5	Torn Signpost
+2	Bait and Switch
+2	Delaying Tactics
+2	On the Qui Vive
+6	Organized Resistance
+Crypt:
+1	Ariane
+2	Atiena
+1	Brandon Grime
+1	Elen Kamjian
+1	Octane
+1	Rayne
+1	Siarhei Levchenko
+1	Theo Bell
+1	Valeriya Zinovieva
+2	Aline Gadeke
