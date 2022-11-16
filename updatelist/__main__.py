@@ -5,6 +5,13 @@ import os
 
 from . import version
 
+LACKEY_SERVER_ROOT = os.getenv("LACKEY_SERVER_ROOT")
+
+# remove any trailing slash
+assert LACKEY_SERVER_ROOT, "LACKEY_SERVER_ROOT environment variable required"
+if LACKEY_SERVER_ROOT[-1] == "/":
+    LACKEY_SERVER_ROOT = LACKEY_SERVER_ROOT[:-1]
+
 
 def checksum(path):
     with open(path, "rb") as fp:
@@ -60,9 +67,7 @@ with open("plugin/updatelist.txt", "w") as fp:
                 local_path = dirpath.replace("plugin/", "") + "/" + filename
             else:
                 local_path = dirpath.replace("plugin", "plugins/vtes") + "/" + filename
-            server_path = (
-                dirpath.replace("plugin", "https://lackey.krcg.org") + "/" + filename
-            )
+            server_path = dirpath.replace("plugin", LACKEY_SERVER_ROOT) + "/" + filename
             if dirpath == "plugin/sets/setimages/general":
                 images.append([f"general/{filename}", server_path])
                 continue
@@ -74,13 +79,13 @@ with open("plugin/updatelist.txt", "w") as fp:
     print("CardImageURLs:", file=fp)
     print(
         "general/cardback.jpg",
-        "https://lackey.krcg.org/cardback.jpg",
+        LACKEY_SERVER_ROOT + "/cardback.jpg",
         sep="\t",
         file=fp,
     )
     print(
         "general/spawned.jpg",
-        "https://lackey.krcg.org/spawned.jpg",
+        LACKEY_SERVER_ROOT + "/spawned.jpg",
         sep="\t",
         file=fp,
     )

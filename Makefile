@@ -1,10 +1,11 @@
 .PHONY: static update cards list test
 
-STATIC_SERVER ?= krcg.org:projects/lackey.krcg.org/dist
+SERVER_SSH ?= krcg.org:projects/lackey.krcg.org/dist
+SERVER_HTTP ?= https://lackey.krcg.org
 DATE := $(shell date -u +"%F")
 
 static:
-	rsync -rlptq --delete-after -e ssh plugin/ ${STATIC_SERVER}
+	rsync -rlptq --delete-after -e ssh plugin/ ${SERVER_SSH}
 
 update:
 	pip install -U pip
@@ -15,7 +16,7 @@ cards: update
 
 list: cards
 	echo 'version = "${DATE}"' > updatelist/version.py
-	python -m updatelist
+	LACKEY_SERVER_ROOT=${SERVER_HTTP} python -m updatelist
 
 test:
-	cp -r plugin/* /Applications/LackeyCCG/plugins/vtes-test 
+	cp -r plugin/* /Applications/LackeyCCG/plugins/vtes-test
